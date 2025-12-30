@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ressources & Annexes - EduSanté360</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header & Navigation -->
+    <header class="header">
+        <nav class="navbar">
+            <div class="container">
+                <div class="logo">
+                    <i class="fas fa-heartbeat"></i>
+                    <span>EduSanté360</span>
+                </div>
+                <button class="nav-toggle" aria-label="Toggle navigation">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Accueil</a></li>
+                    <li><a href="diabete.html">Le Diabète</a></li>
+                    <li><a href="etp.html">ETP</a></li>
+                    <li><a href="ateliers.html">Ateliers</a></li>
+                    <li><a href="ressources.html" class="active">Ressources</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1>Ressources & Annexes</h1>
+            <p>Documents pratiques et outils pour patients et professionnels</p>
+        </div>
+    </section>
+
+    <!-- Resources Grid -->
+    <section class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Documents Disponibles</h2>
+                <div class="divider"></div>
+            </div>
+            
+            <div class="resources-grid">
+                <div class="resource-card">
+                    <div class="resource-icon">
+                        <i class="fas fa-file-alt"></i>
+                    </div>
+                    <h3>Questionnaire d'Évaluation</h3>
+                    <p>Pour évaluer les connaissances des patients diabétiques</p>
+                    <a href="#questionnaire" class="btn btn-sm btn-primary">Consulter</a>
+                </div>
+                <div class="resource-card">
+                    <div class="resource-icon">
+                        <i class="fas fa-clipboard-list"></i>
+                    </div>
+                    <h3>Grille d'Évaluation Éducative</h3>
+                    <p>Outil d'évaluation pour les professionnels</p>
+                    <a href="#grille" class="btn btn-sm btn-primary">Consulter</a>
+                </div>
+                <div class="resource-card">
+                    <div class="resource-icon">
+                        <i class="fas fa-book"></i>
+                    </div>
+                    <h3>Carnet Glycémique</h3>
+                    <p>Modèle de suivi quotidien de la glycémie</p>
+                    <a href="#carnet" class="btn btn-sm btn-primary">Consulter</a>
+                </div>
+                <div class="resource-card">
+                    <div class="resource-icon">
+                        <i class="fas fa-image"></i>
+                    </div>
+                    <h3>Schémas & Tableaux</h3>
+                    <p>Sites d'injection et tableaux alimentaires</p>
+                    <a href="#schemas" class="btn btn-sm btn-primary">Consulter</a>
+                </div>
+                <div class="resource-card">
+                    <div class="resource-icon">
+                        <i class="fas fa-file-medical"></i>
+                    </div>
+                    <h3>Fiches Pratiques</h3>
+                    <p>Prévention du pied diabétique, hypoglycémie...</p>
+                    <a href="#fiches" class="btn btn-sm btn-primary">Consulter</a>
+                </div>
+                <div class="resource-card">
+                    <div class="resource-icon">
+                        <i class="fas fa-book-reader"></i>
+                    </div>
+                    <h3>Bibliographie</h3>
+                    <p>Références scientifiques et recommandations</p>
+                    <a href="#bibliographie" class="btn btn-sm btn-primary">Consulter</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Questionnaire Section -->
+    <section id="questionnaire" class="section bg-light">
+        <div class="container">
+            <div class="section-header">
+                <h2>Questionnaire d'Évaluation pour Patients Diabétiques</h2>
+                <div class="divider"></div>
+            </div>
+            
+            <div class="questionnaire-wrapper">
+                <div class="questionnaire-section">
+                    <h3><i class="fas fa-user"></i> 1. Informations Générales</h3>
+                    <ul class="questionnaire-list">
+                        <li>Âge : _____</li>
+                        <li>Sexe : ☐ Homme ☐ Femme</li>
+                        <li>Durée du diabète (en années) : _____</li>
+                        <li>Type de diabète : ☐ Type 1 ☐ Type 2 ☐ Je ne sais pas</li>
+                        <li>Suivez-vous un traitement ? ☐ Oui ☐ Non</li>
+                        <li>Si oui, lequel ? ☐ Insuline ☐ Antidiabétiques oraux ☐ Autres</li>
+                    </ul>
+                </div>
+
+                <div class="questionnaire-section">
+                    <h3><i class="fas fa-brain"></i> 2. Connaissances sur le Diabète</h3>
+                    <ul class="questionnaire-list">
+                        <li>Savez-vous ce qu'est le diabète ? ☐ Oui ☐ Non ☐ Un peu</li>
+                        <li>Le diabète est une maladie : ☐ Aiguë ☐ Chronique ☐ Je ne sais pas</li>
+                        <li>Quels sont les signes d'un excès de sucre dans le sang ?
+                            <ul>
+                                <li>☐ Soif excessive</li>
+                                <li>☐ Fatigue</li>
+                                <li>☐ Faim intense</li>
+                                <li>☐ Vision floue</li>
+                                <li>☐ Je ne sais pas</li>
+                            </ul>
+                        </li>
+                        <li>Quels sont les risques à long terme du diabète mal contrôlé ?
+                            <ul>
+                                <li>☐ Problèmes cardiaques</li>
+                                <li>☐ Cécité</li>
+                                <li>☐ Amputations</li>
+                                <li>☐ Aucun</li>
+                                <li>☐ Je ne sais pas</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="questionnaire-section">
+                    <h3><i class="fas fa-tasks"></i> 3. Auto-gestion de la Maladie</h3>
+                    <ul class="questionnaire-list">
+                        <li>Faites-vous une auto-surveillance de la glycémie ? ☐ Oui ☐ Non</li>
+                        <li>Si oui, à quelle fréquence ? ☐ 1x/jour ☐ 2x/jour ☐ Plus</li>
+                        <li>Savez-vous comment interpréter vos résultats ? ☐ Oui ☐ Non</li>
+                        <li>Savez-vous quoi faire en cas d'hypoglycémie ? ☐ Oui ☐ Non</li>
+                    </ul>
+                </div>
+
+                <div class="questionnaire-section">
+                    <h3><i class="fas fa-utensils"></i> 4. Alimentation et Hygiène de Vie</h3>
+                    <ul class="questionnaire-list">
+                        <li>Suivez-vous un régime alimentaire particulier ? ☐ Oui ☐ Non</li>
+                        <li>Connaissez-vous la notion d'index glycémique ? ☐ Oui ☐ Non</li>
+                        <li>Faites-vous de l'activité physique ? ☐ Oui ☐ Non</li>
+                        <li>Si oui, combien de fois par semaine ? _____</li>
+                        <li>Fumez-vous ? ☐ Oui ☐ Non</li>
+                    </ul>
+                </div>
+
+                <div class="questionnaire-section">
+                    <h3><i class="fas fa-heart"></i> 5. Ressenti / Qualité de Vie</h3>
+                    <ul class="questionnaire-list">
+                        <li>Le diabète impacte-t-il votre quotidien ? ☐ Pas du tout ☐ Un peu ☐ Beaucoup</li>
+                        <li>Êtes-vous anxieux(se) à propos de votre maladie ? ☐ Oui ☐ Non</li>
+                        <li>Pensez-vous avoir suffisamment de soutien de votre famille ? ☐ Oui ☐ Non</li>
+                    </ul>
+                </div>
+
+                <div class="questionnaire-section">
+                    <h3><i class="fas fa-graduation-cap"></i> 6. Besoins Éducatifs Perçus</h3>
+                    <p>Aimeriez-vous en savoir plus sur :</p>
+                    <ul class="questionnaire-list">
+                        <li>☐ L'alimentation</li>
+                        <li>☐ Les traitements</li>
+                        <li>☐ L'auto-surveillance</li>
+                        <li>☐ La gestion des situations d'urgence</li>
+                        <li>☐ Le diabète et le travail</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Bibliography Section -->
+    <section id="bibliographie" class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Bibliographie Indicative</h2>
+                <div class="divider"></div>
+            </div>
+            
+            <div class="bibliography-list">
+                <div class="biblio-item">
+                    <i class="fas fa-book"></i>
+                    <div class="biblio-content">
+                        <h4>Organisation mondiale de la Santé (OMS)</h4>
+                        <p>Éducation thérapeutique du patient – Programme de formation continue pour les professionnels de santé. Genève, 2018.</p>
+                    </div>
+                </div>
+                <div class="biblio-item">
+                    <i class="fas fa-book"></i>
+                    <div class="biblio-content">
+                        <h4>American Diabetes Association (ADA)</h4>
+                        <p>Standards of Medical Care in Diabetes 2024. Diabetes Care, 2024.</p>
+                    </div>
+                </div>
+                <div class="biblio-item">
+                    <i class="fas fa-book"></i>
+                    <div class="biblio-content">
+                        <h4>Haute Autorité de Santé (HAS)</h4>
+                        <p>Recommandations de bonnes pratiques : ETP dans les maladies chroniques. Paris, 2023.</p>
+                    </div>
+                </div>
+                <div class="biblio-item">
+                    <i class="fas fa-book"></i>
+                    <div class="biblio-content">
+                        <h4>International Diabetes Federation (IDF)</h4>
+                        <p>Global Diabetes Atlas – 10th Edition. Bruxelles, 2024.</p>
+                    </div>
+                </div>
+                <div class="biblio-item">
+                    <i class="fas fa-book"></i>
+                    <div class="biblio-content">
+                        <h4>Société Francophone du Diabète (SFD)</h4>
+                        <p>Guide pratique du diabète de type 2. Paris, 2022.</p>
+                    </div>
+                </div>
+                <div class="biblio-item">
+                    <i class="fas fa-book"></i>
+                    <div class="biblio-content">
+                        <h4>INSP Algérie</h4>
+                        <p>Guide national de l'éducation thérapeutique du patient diabétique. Alger, 2021.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download Section -->
+    <section class="section bg-light">
+        <div class="container">
+            <div class="download-box">
+                <div class="download-content">
+                    <i class="fas fa-download"></i>
+                    <h3>Télécharger le Guide Complet</h3>
+                    <p>Accédez à la version PDF complète du guide EduSanté360</p>
+                    <button class="btn btn-primary">Télécharger (PDF)</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h4>EduSanté360</h4>
+                    <p>Guide d'éducation thérapeutique du patient diabétique</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Navigation</h4>
+                    <ul>
+                        <li><a href="index.html">Accueil</a></li>
+                        <li><a href="diabete.html">Le Diabète</a></li>
+                        <li><a href="etp.html">ETP</a></li>
+                        <li><a href="ateliers.html">Ateliers</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Ressources</h4>
+                    <ul>
+                        <li><a href="ressources.html">Annexes</a></li>
+                        <li><a href="ressources.html#questionnaire">Questionnaire</a></li>
+                        <li><a href="ressources.html#bibliographie">Bibliographie</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact</h4>
+                    <ul>
+                        <li><i class="fas fa-envelope"></i> info@edusante360.dz</li>
+                        <li><i class="fas fa-phone"></i> +213 698 37 55 79 </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 EduSanté360. Tous droits réservés.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
+
+

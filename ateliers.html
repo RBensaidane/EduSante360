@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ateliers Pratiques - EduSanté360</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header & Navigation -->
+    <header class="header">
+        <nav class="navbar">
+            <div class="container">
+                <div class="logo">
+                    <i class="fas fa-heartbeat"></i>
+                    <span>EduSanté360</span>
+                </div>
+                <button class="nav-toggle" aria-label="Toggle navigation">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Accueil</a></li>
+                    <li><a href="diabete.html">Le Diabète</a></li>
+                    <li><a href="etp.html">ETP</a></li>
+                    <li><a href="ateliers.html" class="active">Ateliers</a></li>
+                    <li><a href="ressources.html">Ressources</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1>Ateliers Pratiques</h1>
+            <p>Application concrète de l'ETP au diabète</p>
+        </div>
+    </section>
+
+    <!-- Workshop Grid -->
+    <section class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Nos Ateliers Éducatifs</h2>
+                <div class="divider"></div>
+                <p class="section-description">Des ateliers structurés pour développer les compétences du patient diabétique</p>
+            </div>
+            
+            <div class="workshops-grid">
+                <!-- Workshop 1 -->
+                <div class="workshop-card">
+                    <div class="workshop-icon knowledge">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <h3>Mieux Connaître le Diabète</h3>
+                    <p>Comprendre la maladie, ses types et ses complications</p>
+                    <ul class="workshop-topics">
+                        <li><i class="fas fa-check"></i> Définitions et types de diabète</li>
+                        <li><i class="fas fa-check"></i> Physiopathologie</li>
+                        <li><i class="fas fa-check"></i> Complications aiguës et chroniques</li>
+                        <li><i class="fas fa-check"></i> Prévention</li>
+                    </ul>
+                    <a href="#atelier1" class="btn btn-outline">En savoir plus</a>
+                </div>
+
+                <!-- Workshop 2 -->
+                <div class="workshop-card">
+                    <div class="workshop-icon monitoring">
+                        <i class="fas fa-tint"></i>
+                    </div>
+                    <h3>Autosurveillance Glycémique</h3>
+                    <p>Maîtriser la mesure et l'interprétation de la glycémie</p>
+                    <ul class="workshop-topics">
+                        <li><i class="fas fa-check"></i> Technique de mesure</li>
+                        <li><i class="fas fa-check"></i> Valeurs cibles</li>
+                        <li><i class="fas fa-check"></i> Gestion hypo/hyperglycémie</li>
+                        <li><i class="fas fa-check"></i> Carnet glycémique</li>
+                    </ul>
+                    <a href="#atelier2" class="btn btn-outline">En savoir plus</a>
+                </div>
+
+                <!-- Workshop 3 -->
+                <div class="workshop-card">
+                    <div class="workshop-icon insulin">
+                        <i class="fas fa-syringe"></i>
+                    </div>
+                    <h3>Insulinothérapie</h3>
+                    <p>Techniques d'injection et adaptation des doses</p>
+                    <ul class="workshop-topics">
+                        <li><i class="fas fa-check"></i> Types d'insuline</li>
+                        <li><i class="fas fa-check"></i> Technique d'injection</li>
+                        <li><i class="fas fa-check"></i> Rotation des sites</li>
+                        <li><i class="fas fa-check"></i> Conservation et matériel</li>
+                    </ul>
+                    <a href="#atelier3" class="btn btn-outline">En savoir plus</a>
+                </div>
+
+                <!-- Workshop 4 -->
+                <div class="workshop-card">
+                    <div class="workshop-icon nutrition">
+                        <i class="fas fa-utensils"></i>
+                    </div>
+                    <h3>Alimentation & Activité Physique</h3>
+                    <p>Équilibre alimentaire et bienfaits du sport</p>
+                    <ul class="workshop-topics">
+                        <li><i class="fas fa-check"></i> Équilibre alimentaire</li>
+                        <li><i class="fas fa-check"></i> Index glycémique</li>
+                        <li><i class="fas fa-check"></i> Lecture des étiquettes</li>
+                        <li><i class="fas fa-check"></i> Activité physique adaptée</li>
+                    </ul>
+                    <a href="#atelier4" class="btn btn-outline">En savoir plus</a>
+                </div>
+
+                <!-- Workshop 5 -->
+                <div class="workshop-card">
+                    <div class="workshop-icon pregnancy">
+                        <i class="fas fa-baby"></i>
+                    </div>
+                    <h3>Grossesse & Diabète Gestationnel</h3>
+                    <p>Prise en charge pendant et après la grossesse</p>
+                    <ul class="workshop-topics">
+                        <li><i class="fas fa-check"></i> Dépistage</li>
+                        <li><i class="fas fa-check"></i> Suivi glycémique</li>
+                        <li><i class="fas fa-check"></i> Alimentation adaptée</li>
+                        <li><i class="fas fa-check"></i> Suivi post-partum</li>
+                    </ul>
+                    <a href="#atelier5" class="btn btn-outline">En savoir plus</a>
+                </div>
+
+                <!-- Workshop 6 -->
+                <div class="workshop-card">
+                    <div class="workshop-icon foot">
+                        <i class="fas fa-shoe-prints"></i>
+                    </div>
+                    <h3>Pied Diabétique</h3>
+                    <p>Prévention et soins du pied diabétique</p>
+                    <ul class="workshop-topics">
+                        <li><i class="fas fa-check"></i> Risques et complications</li>
+                        <li><i class="fas fa-check"></i> Examen quotidien</li>
+                        <li><i class="fas fa-check"></i> Hygiène et soins</li>
+                        <li><i class="fas fa-check"></i> Chaussage adapté</li>
+                    </ul>
+                    <a href="#atelier6" class="btn btn-outline">En savoir plus</a>
+                </div>
+
+                <!-- Workshop 7 -->
+                <div class="workshop-card">
+                    <div class="workshop-icon ramadan">
+                        <i class="fas fa-moon"></i>
+                    </div>
+                    <h3>Diabète & Ramadan</h3>
+                    <p>Jeûner en toute sécurité</p>
+                    <ul class="workshop-topics">
+                        <li><i class="fas fa-check"></i> Évaluation du risque</li>
+                        <li><i class="fas fa-check"></i> Adaptation du traitement</li>
+                        <li><i class="fas fa-check"></i> Repères alimentaires</li>
+                        <li><i class="fas fa-check"></i> Surveillance glycémique</li>
+                    </ul>
+                    <a href="#atelier7" class="btn btn-outline">En savoir plus</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Detailed Workshop 1 -->
+    <section id="atelier1" class="section workshop-detail bg-light">
+        <div class="container">
+            <div class="detail-header">
+                <div class="detail-icon knowledge">
+                    <i class="fas fa-brain"></i>
+                </div>
+                <h2>Atelier : Diabète et Complications</h2>
+            </div>
+            
+            <div class="detail-content">
+                <div class="workshop-info-box">
+                    <div class="info-item">
+                        <i class="fas fa-clock"></i>
+                        <strong>Durée :</strong> 1h à 1h30
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-calendar-alt"></i>
+                        <strong>Séances :</strong> Une séance (ou deux si nécessaire)
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-users"></i>
+                        <strong>Animé par :</strong> Médecin, infirmier(ère), psychologue
+                    </div>
+                </div>
+                
+                <p class="lead">Bien souvent, le diabète passe inaperçu car il ne provoque pas de symptômes, tout en restant une maladie évolutive qui expose à un risque important de complications. Ces complications peuvent être évitées ou retardées en adoptant de bonnes habitudes.</p>
+                
+                <div class="content-section">
+                    <h3><i class="fas fa-bullseye"></i> Axes / Objectifs de l'Atelier</h3>
+                    <div class="objectives-grid">
+                        <div class="objective-box">
+                            <h4><i class="fas fa-heart"></i> Volet Psychologique</h4>
+                            <p>Permettre au patient d'exprimer son ressenti face à la maladie (et, si besoin, l'orienter vers un accompagnement psychologique).</p>
+                        </div>
+                        <div class="objective-box">
+                            <h4><i class="fas fa-book-medical"></i> Volet Connaissances</h4>
+                            <ul>
+                                <li>Définir le diabète et distinguer ses différents types</li>
+                                <li>Expliquer l'apparition des complications et leur mécanisme</li>
+                            </ul>
+                        </div>
+                        <div class="objective-box">
+                            <h4><i class="fas fa-shield-alt"></i> Volet Préventif</h4>
+                            <p>Donner des conseils pour réduire le risque de complications.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="content-section">
+                    <h3><i class="fas fa-question-circle"></i> Qu'est-ce que le diabète ?</h3>
+                    <p>Le diabète est une maladie chronique dans laquelle le taux de sucre dans le sang reste trop élevé de façon durable. On distingue principalement deux formes :</p>
+                    
+                    <div class="comparison-grid">
+                        <div class="comparison-card type1-bg">
+                            <h4>Diabète de Type 1</h4>
+                            <ul>
+                                <li>Survient chez l'enfant/adolescent</li>
+                                <li>Destruction des cellules pancréatiques</li>
+                                <li>Traitement par insuline obligatoire</li>
+                            </ul>
+                        </div>
+                        <div class="comparison-card type2-bg">
+                            <h4>Diabète de Type 2</h4>
+                            <ul>
+                                <li>Apparaît à l'âge adulte</li>
+                                <li>Lié au surpoids/obésité</li>
+                                <li>Souvent silencieux au début</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="content-section">
+                    <h3><i class="fas fa-exclamation-triangle"></i> Complications à Connaître</h3>
+                    <div class="complications-summary">
+                        <div class="complication-item">
+                            <i class="fas fa-eye"></i>
+                            <strong>Rétinopathie</strong>
+                            <p>Atteinte des vaisseaux de la rétine</p>
+                        </div>
+                        <div class="complication-item">
+                            <i class="fas fa-kidneys"></i>
+                            <strong>Néphropathie</strong>
+                            <p>Atteinte des reins</p>
+                        </div>
+                        <div class="complication-item">
+                            <i class="fas fa-heart"></i>
+                            <strong>Cardiovasculaire</strong>
+                            <p>Risque accru d'AVC et infarctus</p>
+                        </div>
+                        <div class="complication-item">
+                            <i class="fas fa-shoe-prints"></i>
+                            <strong>Pied diabétique</strong>
+                            <p>Neuropathie et risque d'ulcères</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="alert-box success">
+                    <i class="fas fa-shield-alt"></i>
+                    <p><strong>Bonne nouvelle :</strong> Un bon équilibre glycémique, une surveillance régulière et l'éducation permettent de prévenir efficacement ces complications.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Detailed Workshop 2 -->
+    <section id="atelier2" class="section workshop-detail">
+        <div class="container">
+            <div class="detail-header">
+                <div class="detail-icon monitoring">
+                    <i class="fas fa-tint"></i>
+                </div>
+                <h2>Atelier : Autosurveillance Glycémique et Équilibre Métabolique</h2>
+            </div>
+            
+            <div class="detail-content">
+                <div class="workshop-info-box">
+                    <div class="info-item">
+                        <i class="fas fa-clock"></i>
+                        <strong>Durée :</strong> 1h à 1h15
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-calendar-alt"></i>
+                        <strong>Séances :</strong> Une seule
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-users"></i>
+                        <strong>Animé par :</strong> Médecin, pharmacien, infirmier(ère)
+                    </div>
+                </div>
+                
+                <p class="lead">L'autosurveillance glycémique constitue un pilier fondamental de la prise en charge du diabète. Elle permet de suivre l'évolution de sa glycémie en temps réel et d'adapter son traitement.</p>
+                
+                <div class="content-section">
+                    <h3><i class="fas fa-bullseye"></i> Objectifs / Compétences Visées</h3>
+                    <ul class="check-list">
+                        <li><i class="fas fa-check-circle"></i> Réaliser et surveiller la glycémie (carnet, moments d'HGT)</li>
+                        <li><i class="fas fa-check-circle"></i> Reconnaître les signes et/ou les normes de l'hyperglycémie et de l'hypoglycémie</li>
+                        <li><i class="fas fa-check-circle"></i> Interpréter les résultats et savoir réagir de manière adaptée</li>
+                        <li><i class="fas fa-check-circle"></i> Différencier et manipuler les insulines</li>
+                    </ul>
+                </div>
+                
+                <div class="content-section">
+                    <h3><i class="fas fa-bullseye"></i> Valeurs Cibles</h3>
+                    <div class="targets-table">
+                        <div class="target-row">
+                            <span class="target-label">À jeun / avant repas</span>
+                            <span class="target-value">0,80 - 1,30 g/L</span>
+                        </div>
+                        <div class="target-row">
+                            <span class="target-label">2h après repas</span>
+                            <span class="target-value">< 1,80 g/L</span>
+                        </div>
+                        <div class="target-row">
+                            <span class="target-label">Au coucher</span>
+                            <span class="target-value">1,00 - 1,50 g/L</span>
+                        </div>
+                        <div class="target-row highlight">
+                            <span class="target-label">HbA1c (objectif global)</span>
+                            <span class="target-value">< 7,0 %</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="content-section">
+                    <h3><i class="fas fa-手-pointer"></i> Technique de Mesure</h3>
+                    <div class="steps-grid">
+                        <div class="step-item">
+                            <span class="step-num">1</span>
+                            <p>Lavez-vous les mains au savon et séchez-les bien</p>
+                        </div>
+                        <div class="step-item">
+                            <span class="step-num">2</span>
+                            <p>Massez votre doigt pour stimuler la circulation</p>
+                        </div>
+                        <div class="step-item">
+                            <span class="step-num">3</span>
+                            <p>Prélevez une goutte de sang sur le côté du doigt</p>
+                        </div>
+                        <div class="step-item">
+                            <span class="step-num">4</span>
+                            <p>Placez la goutte sur la bandelette</p>
+                        </div>
+                        <div class="step-item">
+                            <span class="step-num">5</span>
+                            <p>Notez le résultat dans votre carnet</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="emergency-cards">
+                    <div class="emergency-card hypo">
+                        <h4><i class="fas fa-arrow-down"></i> Hypoglycémie (< 0,70 g/L)</h4>
+                        <p><strong>Symptômes :</strong> Tremblements, sueurs, faim, palpitations, confusion</p>
+                        <p><strong>Conduite à tenir :</strong></p>
+                        <ol>
+                            <li>Prendre 15g de sucre rapide (3 morceaux de sucre)</li>
+                            <li>Recontrôler après 15 minutes</li>
+                            <li>Consommer des sucres lents ensuite</li>
+                        </ol>
+                    </div>
+                    <div class="emergency-card hyper">
+                        <h4><i class="fas fa-arrow-up"></i> Hyperglycémie (> 2,50 g/L)</h4>
+                        <p><strong>Symptômes :</strong> Soif intense, fatigue, besoin d'uriner</p>
+                        <p><strong>Conduite à tenir :</strong></p>
+                        <ol>
+                            <li>Rechercher la présence d'acétone</li>
+                            <li>Boire beaucoup d'eau</li>
+                            <li>Adapter l'insuline si prescrit</li>
+                            <li>Consulter si persistance</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Detailed Workshop 3 -->
+    <section id="atelier3" class="section workshop-detail bg-light">
+        <div class="container">
+            <div class="detail-header">
+                <div class="detail-icon insulin">
+                    <i class="fas fa-syringe"></i>
+                </div>
+                <h2>Atelier : Insulinothérapie</h2>
+            </div>
+            
+            <div class="detail-content">
+                <div class="workshop-info-box">
+                    <div class="info-item">
+                        <i class="fas fa-clock"></i>
+                        <strong>Durée :</strong> 45 à 60 minutes
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-calendar-alt"></i>
+                        <strong>Séances :</strong> 2 séances (ou 3 selon les besoins)
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-users"></i>
+                        <strong>Animé par :</strong> Pharmacien(ne) et/ou médecin
+                    </div>
+                </div>
+                
+                <p class="lead">L'insulinothérapie est un traitement essentiel pour de nombreux patients diabétiques. Comprendre le rôle de l'insuline, maîtriser la technique d'injection et savoir adapter son traitement sont des compétences indispensables pour une gestion optimale du diabète.</p>
+                
+                <div class="content-section">
+                    <h3><i class="fas fa-bullseye"></i> Compétences / Objectifs</h3>
+                    <ul class="check-list">
+                        <li><i class="fas fa-check-circle"></i> Expliquer le rôle de l'insuline et ses différents types (rapide, intermédiaire, lente…)</li>
+                        <li><i class="fas fa-check-circle"></i> Faire la distinction entre les types d'insulines et leurs modes d'action</li>
+                        <li><i class="fas fa-check-circle"></i> Comprendre les médicaments (forme, dose, conservation)</li>
+                        <li><i class="fas fa-check-circle"></i> Gérer les effets secondaires et les cas particuliers (oublis/double doses…)</li>
+                        <li><i class="fas fa-check-circle"></i> Connaître les modalités d'administration (technique d'injection, rotation des sites, conservation)</li>
+                        <li><i class="fas fa-check-circle"></i> Comprendre l'insulinothérapie fonctionnelle</li>
+                    </ul>
+                </div>
+
+                <div class="content-section">
+                    <h3><i class="fas fa-vials"></i> Types d'Insuline et Modes d'Action</h3>
+                    <div class="insulin-types-grid">
+                        <div class="insulin-card rapid">
+                            <h4><i class="fas fa-bolt"></i> Insuline Rapide (Analogue ultra-rapide)</h4>
+                            <div class="insulin-info">
+                                <p><strong>Début d'action :</strong> 10-15 minutes</p>
+                                <p><strong>Pic d'action :</strong> 1-2 heures</p>
+                                <p><strong>Durée :</strong> 3-5 heures</p>
+                                <p><strong>Usage :</strong> Avant les repas</p>
+                            </div>
+                        </div>
+                        <div class="insulin-card intermediate">
+                            <h4><i class="fas fa-clock"></i> Insuline Intermédiaire (NPH)</h4>
+                            <div class="insulin-info">
+                                <p><strong>Début d'action :</strong> 1-2 heures</p>
+                                <p><strong>Pic d'action :</strong> 4-8 heures</p>
+                                <p><strong>Durée :</strong> 12-16 heures</p>
+                                <p><strong>Usage :</strong> Couverture de base</p>
+                            </div>
+                        </div>
+                        <div class="insulin-card slow">
+                            <h4><i class="fas fa-hourglass-half"></i> Insuline Lente (Analogue lent)</h4>
+                            <div class="insulin-info">
+                                <p><strong>Début d'action :</strong> 2-4 heures</p>
+                                <p><strong>Pic d'action :</strong> Pas de pic marqué</p>
+                                <p><strong>Durée :</strong> 20-24 heures</p>
+                                <p><strong>Usage :</strong> Insuline basale</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="content-section">
+                    <h3><i class="fas fa-hand-holding-medical"></i> Technique d'Injection</h3>
+                    <div class="injection-steps">
+                        <div class="step-detail">
+                            <span class="step-badge">1</span>
+                            <h4>Préparation</h4>
+                            <ul>
+                                <li>Lavez-vous les mains</li>
+                                <li>Vérifiez la date de péremption</li>
+                                <li>Contrôlez l'aspect de l'insuline</li>
+                                <li>Préparez le matériel (stylo, aiguille, coton)</li>
+                            </ul>
+                        </div>
+                        <div class="step-detail">
+                            <span class="step-badge">2</span>
+                            <h4>Sites d'Injection</h4>
+                            <ul>
+                                <li>Abdomen (absorption rapide)</li>
+                                <li>Cuisse (absorption lente)</li>
+                                <li>Bras (face externe)</li>
+                                <li>Fesses</li>
+                            </ul>
+                            <div class="alert-box warning">
+                                <p><i class="fas fa-exclamation-triangle"></i> <strong>Important :</strong> Faites une rotation des sites pour éviter les lipodystrophies</p>
+                            </div>
+                        </div>
+                        <div class="step-detail">
+                            <span class="step-badge">3</span>
+                            <h4>Injection</h4>
+                            <ul>
+                                <li>Pincez légèrement la peau</li>
+                                <li>Injectez à 90° (ou 45° si mince)</li>
+                                <li>Appuyez sur le piston</li>
+                                <li>Maintenez 10 secondes</li>
+                                <li>Retirez l'aiguille</li>
+                            </ul>
+                        </div>
+                        <div class="step-detail">
+                            <span class="step-badge">4</span>
+                            <h4>Après l'Injection</h4>
+                            <ul>
+                                <li>Ne pas frotter la zone</li>
+                                <li>Éliminez l'aiguille dans un container adapté</li>
+                                <li>Notez l'injection dans votre carnet</li>
+                                <li>Conservez correctement l'insuline</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="content-section">
+                    <h3><i class="fas fa-temperature-low"></i> Conservation de l'Insuline</h3>
+                    <div class="conservation-grid">
+                        <div class="conservation-card">
+                            <i class="fas fa-box"></i>
+                            <h4>Insuline Non Entamée</h4>
+                            <p>Au réfrigérateur entre <strong>2°C et 8°C</strong></p>
+                            <p>Ne jamais congeler</p>
+                        </div>
+                        <div class="conservation-card">
+                            <i class="fas fa-syringe"></i>
+                            <h4>Insuline en Cours d'Utilisation</h4>
+                            <p>À température ambiante (< 25°C)</p>
+                            <p>Durée : <strong>28 jours maximum</strong></p>
+                        </div>
+                        <div class="conservation-card">
+                            <i class="fas fa-exclamation-circle"></i>
+                            <h4>Précautions</h4>
+                            <p>Éviter la lumière directe</p>
+                            <p>Protéger de la chaleur</p>
+                            <p>Vérifier l'aspect avant chaque injection</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="content-section">
+                    <h3><i class="fas fa-exclamation-triangle"></i> Cas Particuliers</h3>
+                    <div class="special-cases">
+                        <div class="case-card">
+                            <h4><i class="fas fa-times-circle"></i> Oubli d'Injection</h4>
+                            <ul>
+                                <li>Ne jamais doubler la dose</li>
+                                <li>Contrôler la glycémie</li>
+                                <li>Injecter dès que possible si < 2h du repas</li>
+                                <li>Sinon, attendre la prochaine injection</li>
+                                <li>Contacter votre médecin si doute</li>
+                            </ul>
+                        </div>
+                        <div class="case-card">
+                            <h4><i class="fas fa-copy"></i> Double Dose par Erreur</h4>
+                            <ul>
+                                <li>Surveiller étroitement la glycémie</li>
+                                <li>Avoir du sucre rapide à portée</li>
+                                <li>Manger normalement ou plus si besoin</li>
+                                <li>Contacter immédiatement votre médecin</li>
+                                <li>Surveiller pendant 24h</li>
+                            </ul>
+                        </div>
+                        <div class="case-card">
+                            <h4><i class="fas fa-allergies"></i> Effets Secondaires</h4>
+                            <ul>
+                                <li>Hypoglycémie (le plus fréquent)</li>
+                                <li>Lipodystrophies (changez de site)</li>
+                                <li>Réactions allergiques locales (rares)</li>
+                                <li>Prise de poids (adaptez l'alimentation)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="content-section">
+                    <h3><i class="fas fa-calculator"></i> Insulinothérapie Fonctionnelle</h3>
+                    <p>L'insulinothérapie fonctionnelle permet d'adapter les doses d'insuline rapide en fonction :</p>
+                    <ul class="functional-list">
+                        <li><i class="fas fa-utensils"></i> De la quantité de glucides consommés</li>
+                        <li><i class="fas fa-running"></i> De l'activité physique prévue</li>
+                        <li><i class="fas fa-tint"></i> De la glycémie mesurée avant le repas</li>
+                    </ul>
+                    <div class="info-card blue">
+                        <h4><i class="fas fa-info-circle"></i> Principe</h4>
+                        <p>Cette approche nécessite une formation spécifique avec votre équipe médicale. Elle permet plus de liberté alimentaire tout en maintenant un bon équilibre glycémique.</p>
+                        <p><strong>Formule de base :</strong> Dose d'insuline = (Glucides du repas / Ratio) + Correction de glycémie</p>
+                    </div>
+                </div>
+
+                <div class="alert-box success">
+                    <i class="fas fa-lightbulb"></i>
+                    <p><strong>Conseil important :</strong> La maîtrise de l'insulinothérapie demande de la pratique. N'hésitez pas à poser des questions à votre équipe soignante et à participer aux ateliers d'éducation thérapeutique.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Besoin de plus d'informations ?</h2>
+                <p>Consultez nos ressources et annexes pour approfondir vos connaissances</p>
+                <a href="ressources.html" class="btn btn-light">Voir les ressources</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h4>EduSanté360</h4>
+                    <p>Guide d'éducation thérapeutique du patient diabétique</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Navigation</h4>
+                    <ul>
+                        <li><a href="index.html">Accueil</a></li>
+                        <li><a href="diabete.html">Le Diabète</a></li>
+                        <li><a href="etp.html">ETP</a></li>
+                        <li><a href="ateliers.html">Ateliers</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Ressources</h4>
+                    <ul>
+                        <li><a href="ressources.html">Annexes</a></li>
+                        <li><a href="ressources.html#questionnaire">Questionnaire</a></li>
+                        <li><a href="ressources.html#bibliographie">Bibliographie</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact</h4>
+                    <ul>
+                        <li><i class="fas fa-envelope"></i> info@edusante360.dz</li>
+                        <li><i class="fas fa-phone"></i> +213 698 37 55 79 </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 EduSanté360. Tous droits réservés.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
+
+
