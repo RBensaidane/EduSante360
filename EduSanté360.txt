@@ -1,0 +1,1795 @@
+sommaire
+1. Introduction générale​
+1.1. Contexte et justification (maladies chroniques, diabète, enjeux)​
+1.2. Objectifs du guide (ce que vise le guide)​
+1.3. Cible publique
+1.4. Structure du guide (organisation générale en sections)
+2. Bases scientifiques du diabète
+2.1. Diabète en quelques mots (définition, rôle de l'insuline)
+2.2. Typologie du diabète
+2.2.1. Diabète de type 1 (DT1)​
+2.2.2. Diabète de type 2 (DT2)
+2.2.3. Diabète gestationnel​
+2.2.4. Autres types spécifiques (MODY, causes secondaires…)
+2.3. Physiopathologie (sujet normal vs diabète, conséquences métaboliques)
+2.4. Diagnostic biologique (critères, HbA1c, HGPO…)
+2.5. Complications du diabète
+2.5.1. Complications aiguës (hypoglycémie, hyperglycémie, acidocétose…)​
+2.5.2. Complications chroniques (microangiopathies, macroangiopathies…)​
+2.6. Prévention générale des complications (surveillance + éducation)
+3. Éducation thérapeutique du patient (ETP)​
+3.1. Définition : de quoi s'agit-il ? (OMS, concept, principes)
+3.2. Finalités : à quoi sert l'ETP ? (objectifs généraux et spécifiques)
+3.3. Cadre légal et réglementaire (HAS, structuration des programmes)​
+3.4. Pour qui ? (patients, proches, facteurs à prendre en compte)
+3.5. Par qui ? (équipe, formation, compétences)
+3.6. Compétences du professionnel éducateur
+3.7. Démarche éducative structurée (processus)​
+3.7.1. Diagnostic éducatif
+3.7.2. Définition d'un programme personnalisé (objectifs SMART)
+3.7.3. Planification et réalisation des séances (individuelles/collectives)​
+3.7.4. Méthodes et outils pédagogiques (communication, supports, techniques)​
+3.7.5. Évaluation et suivi (types d'évaluation, critères de qualité)
+4. Application pratique de l'ETP au diabète​
+4.1. Principes généraux d'application (transformation des connaissances en comportements)
+4.2. Bilan éducatif partagé / Diagnostic éducatif du patient diabétique
+4.2.1. Questionnaire d'entretien (renvoi Annexe 1)​
+4.2.2. Clés d'analyse (biomédicale, socio-pro, psychoaffective, cognitive, projet de vie)​
+4.3. Choix des objectifs éducatifs (priorisation, freins/leviers)
+4.4. Organisation des ateliers proposés (accueil, règles, déroulés)
+4.5. Ateliers éducatifs (contenus repérés)
+4.5.1. Atelier : Mieux connaître le diabète (définitions, types, complications, prévention)
+4.5.2. Atelier : Autosurveillance glycémique et équilibre métabolique (cibles, carnet, hypo/hyper)
+4.5.3. Atelier : Insulinothérapie et autres traitements (types d'insuline, techniques, ADO, ITF)
+4.5.4. Atelier : Alimentation et activité physique (équilibre alimentaire, IG, étiquettes, sport)
+4.5.5. Atelier : Grossesse et diabète gestationnel (dépistage, prise en charge, suivi post-partum)
+4.5.6. Atelier : Pied diabétique (risques, examen, prévention, conduite à tenir)
+4.5.7. Conseils spécifiques : Ramadan (repères alimentaires, prévention hypo/hyper, menus)
+5. Évaluation et suivi éducatif​
+5.1. Objectifs de l'évaluation éducative
+5.2. Types d'évaluation (formative, sommative, auto-évaluation)
+5.3. Outils d'évaluation (grilles, questionnaires, indicateurs)
+5.4. Suivi éducatif et réévaluation (continuité, adaptation)
+5.5. Difficultés de mise en œuvre et pistes de solutions​
+6. Annexes (suggestions)​
+6.1. Annexe 1 : Exemple de plan de séance / Questionnaire d'évaluation patient diabétique​
+6.2. Annexe 2 : Grille d'évaluation éducative du patient
+6.3. Annexe 3 : Modèle de carnet glycémique​
+6.4. Annexe 4 : Schémas (sites d'injection) et tableaux alimentaires6.5. Annexe 5 : Fiches pratiques (pied diabétique, hypoglycémie, etc.)
+
+
+
+
+
+
+
+I. INTRODUCTION GÉNÉRALE
+Les maladies chroniques représentent l’un des principaux défis de santé publique en Algerie et dans le monde. Selon l’OMS elle représente la premiere cause de mortalité responsable de 74 des décés .Elle regroupent un grand nombre de pathologies differentes telles que le diabete l’hypertension artérielle, les maladies cardio-vasculaires, les maladies 
+respiratoires chroniques, la maladie rénale chronique, les cancers, l’hémophilie........ .Le diabete entraîne des complications graves  qui altèrent profondément la qualité de vie des patients et pèsent lourdement sur les systèmes de santé.
+En algerie, la prise en charge du diabète est rendue plus complexe par la diversité des profils cliniques, la coexistence fréquente d’autres maladies chroniques, et le manque de connaissances des patients sur leur maladie et leurs traitements.
+Face à ce constat, l’Éducation Thérapeutique du Patient (ETP) s’impose comme un levier majeur d’amélioration de la prise en charge. Elle vise à aider le patient diabétique à acquérir les compétences nécessaires pour comprendre sa maladie, gérer son traitement, adopter des comportements favorables à la santé et prévenir les complications. ​
+
+
+
+
+
+
+
+
+2. Ce que vise ce guide:
+Fournir aux professionnels de santé un outil scientifique et pédagogique pour conduire efficacement des séances d’éducation thérapeutique.
+Offrir un référentiel académique sur les bases physiopathologiques, thérapeutiques et éducatives du diabète.
+Favoriser l’harmonisation des pratiques éducatives à travers une approche basée sur les recommandations internationales (OMS, HAS, ADA, EASD).
+
+3. Public cible
+Ce guide s’adresse principalement :
+Aux professionnels de santé impliqués dans la prise en charge du diabète : médecins, infirmiers, diététiciens, pharmaciens, psychologues, kinésithérapeutes.
+Aux étudiants en sciences de la santé désirant approfondir leurs connaissances sur l’éducation thérapeutique.
+Aux structures de soins souhaitant mettre en place ou renforcer un programme d’éducation thérapeutique du patient diabétique.
+
+
+
+4.Structure du guide 
+ ce guide est organisée en deux grandes sections thématiques qui couvrent à la fois les bases générales de l'éducation thérapeutique et l'application spécifique pour le patient diabétique.
+Le guide commence par une première section introductive dédiée à l'éducation thérapeutique (ETP) en général. Celle-ci aborde la définition, les concepts clés, les enjeux, les objectifs pédagogiques, les méthodes et l'évaluation du processus éducatif. Cette structure permet de poser les bases théoriques nécessaires à toute démarche d'ETP.
+La seconde section est plus appliquée et centrée sur le cas particulier du diabète. C’est l’application concrète de l’ETP pour le patient diabétique
+La structure du guide suit une logique pédagogique descendante : elle va du général (bases et méthodologie de l'ETP) au spécifique. Elle permet ainsi de donner à la fois aux professionnels de santé et aux patients un cadre complet, référencé et progressif pour comprendre et mieux mettre en œuvre l'éducation thérapeutique au quotidien.
+
+
+
+
+
+
+1. Contexte et justification
+Le diabète sucré constitue aujourd’hui un véritable problème de santé publique mondiale. Selon la Fédération Internationale du Diabète (IDF, 2024), plus de 530 millions d’adultes vivent avec cette maladie chronique, et les projections annoncent plus de 780 millions de cas d’ici 2045.
+Cette augmentation constante s’explique par le vieillissement de la population, la sédentarité, l’obésité et les changements des modes de vie. En Algérie, comme dans la majorité des pays , la prévalence du diabète est en constante croissance, atteignant des proportions alarmantes dans certaines régions.
+En Algérie, le manque de sensibilisation et d’information chez les patients diabétiques demeure un obstacle majeur à une prise en charge optimale de la maladie. Bien que l’importance des actions préventives  notamment la sensibilisation, l’éducation sanitaire et la promotion d’un mode de vie sain  soit largement reconnue, leur mise en application reste encore insuffisante.
+Dans ce contexte, l’Éducation Thérapeutique du Patient (ETP) revêt une importance particulière. Elle contribue à améliorer l’équilibre glycémique, à prévenir la progression des complications et à renforcer l’autonomie des patients en leur permettant de mieux comprendre leur diabète et de collaborer de manière plus efficace avec les professionnels de santé.
+
+
+
+
+II. BASES SCIENTIFIQUES DU DIABÈTE
+
+
+ Diabète en quelques mots
+Le diabète sucré est une maladie métabolique chronique caractérisée par une hyperglycémie permanente, due soit à un défaut de sécrétion d’insuline par le pancréas, soit à une résistance périphérique à l’action de l’insuline, ou à une combinaison des deux.
+L’insuline, hormone sécrétée par les cellules β des îlots de Langerhans du pancréas, joue un rôle central dans la régulation du métabolisme glucidique, lipidique et protéique. Sa carence ou son inefficacité entraîne une accumulation du glucose dans le sang, responsable des manifestations cliniques du diabète.
+
+Typologie du diabète:
+Selon l’Organisation Mondiale de la Santé (OMS, 2023) et l’American Diabetes Association (ADA, 2024), le diabète se divise en plusieurs catégories :
+. Diabète de type 1 (DT1)
+D’origine auto-immune, caractérisé par la destruction des cellules β du pancréas.
+Il conduit à une carence absolue en insuline.
+Il survient le plus souvent chez l’enfant, l’adolescent ou l’adulte jeune.
+Le traitement repose exclusivement sur l’insulinothérapie à vie.
+Signes cliniques : polyurie, polydipsie, polyphagie, amaigrissement rapide, fatigue.
+Facteurs déclenchants : prédisposition génétique (HLA-DR3/DR4), infections virales, facteurs environnementaux.
+
+
+. Diabète de type 2 (DT2)
+Représente environ 90 % des cas de diabète dans le monde.
+Il est caractérisé par une résistance à l’insuline associée à un défaut progressif de sécrétion pancréatique.
+Étroitement lié au syndrome métabolique : obésité abdominale, dyslipidémie, hypertension artérielle et insulinorésistance.
+Facteurs de risque :
+Âge supérieur à 40 ans ;
+Antécédents familiaux de diabète ;
+Surpoids et obésité ;
+Sédentarité ;
+Alimentation riche en graisses et sucres simples.
+Prise en charge : repose sur l’hygiène de vie (alimentation équilibrée et activité physique), les antidiabétiques oraux et, dans certains cas, l’insuline.
+
+. Diabète gestationnel
+Hyperglycémie survenant ou diagnostiquée pour la première fois pendant la grossesse.
+Liée à une insulinorésistance physiologique aggravée par les hormones placentaires.
+Elle expose à un risque accru de complications obstétricales et métaboliques (macrosomie fœtale, prééclampsie, diabète ultérieur chez la mère).
+
+. Autres types spécifiques
+Incluent les formes rares :
+Monogéniques (ex. : MODY – Maturity Onset Diabetes of the Young) ;
+Secondaires à des maladies pancréatiques, endocriniennes ou à certains médicaments (corticostéroïdes, antipsychotiques).
+
+. Physiopathologie
+Le mécanisme central du diabète repose sur un déséquilibre entre la production et l’utilisation du glucose par l’organisme.
+1. Chez le sujet normal :
+L’insuline permet :
+l’entrée du glucose dans les cellules (musculaires et adipeuses) ;
+la stimulation de la synthèse du glycogène hépatique ;
+l’inhibition de la production hépatique de glucose. 
+
+
+
+
+
+
+
+2. En cas de diabète :
+Dans le diabète de type 1 : absence totale d’insuline → hyperglycémie rapide, lipolyse et cétogenèse (risque d’acidocétose). photo
+Dans le diabète de type 2 : résistance des tissus à l’insuline → hyperinsulinémie compensatrice initiale, puis défaillance des cellules β pancréatiques → hyperglycémie chronique. photo
+Conséquences métaboliques :
+Hyperglycémie chronique ;
+Hyperlipidémie et athérosclérose ;
+Diminution de l’utilisation périphérique du glucose ;
+Altérations vasculaires et nerveuses à long terme.
+
+
+
+Encyclopædia Universalis France
+ [Image à insérer] : Comparaison entre diabète de type 1 et diabète de type 2.
+4. Diagnostic biologique
+Le diagnostic repose sur les critères de l’ADA (2024) :
+Paramètre
+Valeur seuil
+Interprétation
+Glycémie à jeun
+≥ 1,26 g/L (7,0 mmol/L)
+Diabète
+Glycémie 2h après HGPO (75 g glucose)
+≥ 2,00 g/L (11,1 mmol/L)
+Diabète
+HbA1c
+≥ 6,5 %
+Diabète confirmé
+Glycémie aléatoire + symptômes
+≥ 2,00 g/L
+Diabète probable
+
+Ces tests doivent être confirmés par une seconde mesure, sauf en cas de signes cliniques typiques.
+L’HbA1c reflète la moyenne des glycémies sur environ trois mois et constitue un excellent marqueur du contrôle métabolique.
+
+5. Complications du diabète
+Le diabète non contrôlé entraîne des complications aiguës et chroniques.
+5.1. Complications aiguës
+Hypoglycémie : due à une dose excessive d’insuline ou un repas insuffisant.
+Cétose diabétique : surtout dans le DT1, caractérisée par une accumulation de corps cétoniques.
+Syndrome hyperosmolaire : complication sévère du DT2, marquée par une déshydratation importante.
+5.2. Complications chroniques
+Microangiopathies :
+Rétinopathie diabétique → principale cause de cécité acquise. photo
+Néphropathie diabétique → cause majeure d’insuffisance rénale terminale.
+Neuropathie périphérique → engourdissements, douleurs, ulcères du pied. photo
+Macroangiopathies :
+Cardiopathie ischémique, AVC, artériopathie des membres inférieurs.
+Ces complications expliquent la majorité des décès liés au diabète.
+Autres complications :
+Infections cutanées, troubles sexuels, atteintes bucco-dentaires, dépression.
+
+✳️ [Image à insérer] : Schéma des complications micro- et macrovasculaires du diabète.
+✳️ [Encadré à ajouter] : “La prévention repose sur l’équilibre glycémique, la surveillance régulière et l’éducation du patient.”
+
+
+
+
+
+ NOTIONS ESSENTIELLES SUR 
+L'ÉDUCATION THERAPEUTIQUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+III. L’ÉDUCATION THÉRAPEUTIQUE DU PATIENT (ETP)
+1. DE QUOI S’AGIT IL
+C’est une démarche éducative qui s’appuie essentiellement sur la relation de soin et sur une organisation structurée, pensée dans la durée, qui donne une place centrale au patient en tant qu’acteur de sa propre santé.
+DANS LA RECOMMANDATION DE L’OMS
+L’Éducation Thérapeutique du Patient (ETP) est définie par l’Organisation Mondiale de la Santé (OMS, 1998) comme un processus permanent, intégré aux soins, visant à aider les patients à acquérir ou maintenir les compétences dont ils ont besoin pour gérer au mieux leur vie avec une maladie chronique.
+Elle s’inscrit dans une approche globale centrée sur le patient, visant à promouvoir l’autonomie, la responsabilité et la qualité de vie.
+L’ETP dépasse la simple information : elle repose sur une relation interactive et personnalisée entre le patient et le professionnel de santé. Elle intègre des aspects cognitifs, comportementaux et émotionnels.
+L’éducation thérapeutique est aujourd’hui considérée comme une composante à part entière du traitement du diabète, au même titre que les médicaments ou la diététique.
+
+2. A quoi sert l’Éducation Thérapeutique
+L’objectif général est de permettre au patient diabétique de :
+Comprendre sa maladie et ses traitements.
+Acquérir les compétences nécessaires à la gestion quotidienne du diabète.
+Adopter des comportements favorables à sa santé.
+Prévenir les complications à court et long terme.
+Améliorer sa qualité de vie et son bien-être psychologique.
+Objectifs spécifiques :
+Améliorer l’observance thérapeutique.
+Développer la capacité d’autoévaluation et d’autosurveillance.
+Favoriser l’adaptation du traitement aux situations de vie quotidienne.
+Encourager le dialogue entre le patient et les professionnels de santé.
+
+3. Cadre légal et réglementaire
+En France et dans de nombreux pays, l’ETP est encadrée par des recommandations de la Haute Autorité de Santé (HAS, 2018).
+Les programmes doivent :
+Être structurés et validés par une équipe pluridisciplinaire.
+Comporter une évaluation initiale (diagnostic éducatif), des objectifs individualisés, et un bilan final.
+Respecter les principes éthiques de confidentialité, de consentement éclairé et de respect du rythme du patient.
+Dans le contexte algérien, l’ETP se développe progressivement dans les structures publiques et privées, notamment à travers les services d’endocrinologie et les programmes nationaux de prévention des maladies chroniques.
+4 POUR QUI 
+L'éducation thérapeutique s'adresse à toute personne atteinte d'une maladie chronique (diabète, asthme, insuffisance rénale, maladies cardiovasculaires, etc.).​
+-La maladie évolue sur le long terme.
+-Elle est souvent associée à une invalidité et/ou à un risque de complications graves.
+-Elle nécessite des traitements prolongés, parfois difficiles à suivre.
+-Elle impose des changements d'habitudes de vie quotidiennes, pouvant diminuer la qualité de vie des patients.​
+-L'éducation thérapeutique concerne également les personnes présentant des facteurs de risque, comme l'hypertension artérielle.
+-Elle peut être proposée dans des situations particulières, par exemple pendant la maternité ou la préparation à l'accouchement.​
+-Elle s'adresse également aux proches du patient lorsque celui-ci souhaite les impliquer dans la gestion de sa maladie.​
+-Les difficultés d'apprentissage (lecture, langue, troubles cognitifs, handicap), le niveau socio-économique, le niveau culturel et le lieu de vie doivent être pris en compte.
+Ces particularités servent à adapter le programme d'éducation thérapeutique à chaque patient.
+5 PAR QUI
+L'ETP est assuré par des professionnels spécifiquement formés à cette démarche, aux techniques de communication et aux méthodes pédagogiques.​
+-Leur rôle est d'aider le patient à nécessiter des compétences d'auto-soins, d'adaptation, de travail en équipe et de coordination des actions autour de lui.​
+-Pour le soignant, pratiquer l'ETP signifie adopter une façon de travailler qui renforce la participation du patient aux décisions et aux actions concernant sa santé.​
+-L'ETP va bien au-delà d'une simple transmission d'informations au patient et à son entourage.​
+-Elle comporte une dimension informative, mais aussi une dimension psychosociale , intégrant le vécu et l'environnement du patient.​
+-Elle ne se résume pas à une relation individuelle : le professionnel doit être capable de concevoir des projets et d'animer des groupes.​
+-Elle nécessite une formation solide et ne repose pas uniquement sur les qualités personnelles du soignant.​
+-Ces compétences se construisent par un travail continu, articulant théorie et pratique, dans une posture d'ouverture, d'observation et d'ajustement.​
+
+Les compétences nécessaires pour organiser et coordonner l'ETP comprennent notamment :​
+-Compétences biomédicales et de soins : bonne connaissance de la maladie chronique, de la stratégie thérapeutique, des troubles psychiques et des situations de vulnérabilité psycho-sociale.
+-Compétences relationnelles : empathie, écoute active, vocabulaire adapté, soutien de la motivation, reconnaissance des ressources et des difficultés du patient.
+-Compétences pédagogiques et d'animation : choix et utilisation d'outils et de techniques pédagogiques favorisant l'acquisition de compétences par le patient.
+-Compétences méthodologiques et organisationnelles : planification des étapes de l'ETP, conception d'un programme individualisé négocié avec le patient, mise en œuvre et coordination des actions des différents professionnels impliqués.
+
+6. Compétences du professionnel de santé éducateur
+L’efficacité de l’ETP repose sur les compétences relationnelles et pédagogiques du soignant :
+Écoute active, empathie et communication bienveillante.
+Capacité d’adaptation au profil du patient.
+Maîtrise des techniques d’animation éducative.
+Évaluation des besoins et planification des séances.
+Travail en équipe interdisciplinaire.
+ L’attitude éducative implique de “faire avec” plutôt que “faire à la place de”.
+Le professionnel devient un facilitateur de changement, aidant le patient à comprendre et à agir pour sa santé.
+7. Démarche éducative structurée
+L’ETP suit un processus en quatre étapes principales selon l’OMS et la HAS :
+4.1. Diagnostic éducatif
+Recueillir les connaissances, les croyances, les attentes et les besoins du patient.
+Identifier les obstacles à l’apprentissage (psychologiques, sociaux, culturels).
+Évaluer la motivation et les capacités d’autonomie.
+🩺 Exemple : “Que savez-vous de votre diabète ?” ; “Quelles difficultés rencontrez-vous pour faire vos injections ?”
+OBJECTIFS
+-Accéder, grâce à un dialogue structuré, aux connaissances, représentations, explications et ressentis du patient :​
+-Identifier ce que le patient sait et croit sur sa maladie et sur la manière de la gérer.
+-Évaluer ses connaissances sur l’évolution et la gravité de la maladie, ainsi que ce qui le rassure ou l’inquiète.
+-Repérer ses conditions de vie et de travail.
+-Apprécier ses savoir-faire : comment il se soigne, comment il utilise ses médicaments, comment il s’alimente.
+-Reconnaître la manière de réagir du patient à sa situation et les différentes étapes de son évolution psychologique :​
+-Identifier ses réactions émotionnelles (peur, colère, anxiété, tristesse, etc.) et ses comportements (recherche d’informations, demande d’aide, évitement).
+-Repérer sa perception des facteurs de stress, de vulnérabilité et de ses ressources sociales (soutien, isolement, difficultés relationnelles).
+-Être attentif à la fragilité liée à l’avancée en âge.
+-Reconnaître le rôle protecteur ou non des facteurs socio-environnementaux :
+-Catégorie sociale, âge, niveau et style de vie, caractéristiques socioculturelles.
+-Événements stressants de vie, degré d’intégration sociale.
+-Chercher à connaître ce que le patient comprend de sa situation de santé et ce qu’il attend :​
+-Préciser avec lui sa demande vis-à-vis de l’ETP et des soins.
+-            -Repérer les difficultés de lecture ou de compréhension de la langue, un handicap sensoriel ou mental, des troubles cognitifs, une dyslexie, etc.
+-Favoriser l’implication du patient et soutenir sa motivation, en recherchant avec lui les modalités de gestion personnelle de sa maladie les plus adaptées :​
+Tenir compte de ses demandes et de ses projets.
+L’aider à s’approprier le programme d’ETP.
+Hiérarchiser avec lui ses priorités d’apprentissage et de changement, en respectant le temps nécessaire pour les mettre en œuvre (planification progressive).
+Négocier ses priorités avec celles appréciées par le professionnel de santé.
+Encourager les pratiques d’auto-évaluation valorisantes pour le patient.
+
+
+4.2. Définition d’UN PROGRAMME PERSONNALISE
+Les objectifs sont fixés conjointement entre le patient et l’équipe soignante.
+Ils doivent être spécifiques, mesurables, atteignables, réalistes et temporels (SMART).
+🎯 Exemples :
+Apprendre à mesurer sa glycémie capillaire avant et après les repas.
+Comprendre l’importance de la rotation des sites d’injection.
+Adapter son régime alimentaire en cas de repas exceptionnel.
+
+4.3.PLANIFICATION ET REALISATION DES SEANCES EDUCATIFS
+La mise en œuvre repose sur des séances :
+Individuelles, centrées sur les besoins spécifiques du patient
+face à face avec le patient, éventuellement en présence de son entourage.
+Collectives, favorisant l’échange d’expériences entre patients.réunissant un groupe de 3 à 10 patients selon la population concernée.
+Caractéristiques des séances individuelles :​
+Accès facilité pour les patients ayant une dépendance physique, sensorielle ou cognitive, ou ne pouvant pas intégrer un groupe dans un premier temps.
+Meilleure adaptation possible à la réalité de vie du patient et à son propre rythme.
+La durée comprend entre 30 et 45 minutes.
+Caractéristiques des séances collectives :
+Organisation autour d'objectifs communs définis pour l'ensemble des participants.
+Partage d'expériences favorisées, ce qui aide à rompre l'isolement.
+Réceptivité des patients généralement augmentée.
+Durée d'environ 45 minutes.
+Chaque séance d'ETP comporte trois temps :​
+-Avant la séance : phase de préparation.
+-Pendant la séance : conduite de la séance éducative.
+-Après la séance : temps d'analyse pour préparer les suivantes.
+Avant la séance, la préparation vise à créer de bonnes conditions pédagogiques :​
+-Connaître chaque participant et son diagnostic éducatif.
+-Aménager l'espace, prévoir le matériel pédagogique et la préparation spécifique liée à la technique éducative choisie.
+Pendant la séance, plusieurs éléments structurant le temps avec les patients :​
+Présenter les objectifs de la séance, ses modalités pratiques et valider ces objectifs avec les patients.
+Conduire la séance selon des principes d'apprentissage : pédagogie centrale sur le patient, progression adaptée, rythme et sens donné à l'apprentissage.
+Prendre en compte les connaissances antérieures, représentations et croyances des patients.
+Choisir les techniques pédagogiques pertinentes au regard des objectifs fixés.
+En fin de séance, vérifiez l'appropriation des contenus par les patients :​
+Évaluer leur capacité à utiliser les acquis dans la vie quotidienne.
+
+
+Lors des séances collectives, prévoir un temps d'échange d'expériences et de questions-réponses.
+Exiger aux patients de faire une synthèse de la séance, comme moyen d'évaluation et de réinvestissement.
+Après la séance, un temps d'analyse est nécessaire pour préparer les suivantes :​
+S'appuyer sur une auto-évaluation du déroulement de la séance par le soignant.
+Rédiger une trace écrite des informations, en particulier des compétences travaillées et des thèmes abordés.
+Méthodes pédagogiques utilisées :
+Les outils d'éducation thérapeutique sont des supports et méthodes qui facilitent la formation, la communication et le développement des compétences des soignants et des patients.​
+-Ils permettent de mieux connaître le patient, d'adapter les soins et d'optimiser la prise en charge des maladies chroniques.
+-Ils offrent des ressources pour organiser des séances individuelles ou collectives, dans un cadre moins formel que la consultation, favorisant l'expression du patient et l'évaluation de l'évolution de sa situation.​
+
+ Les outils pédagogiques structurent et enrichissent l'ETP en améliorant la communication, l'adaptation des soins et l'expression du patient.​
+​
+ Principales techniques de communication
+-Les questions ouvertes offrent au patient de développer ses réponses et d'exprimer plus précisément son ressenti, tout en permettant au soignant d'adapter son langage.​
+-La reformulation consiste à redire avec des mots plus clairs ce que le patient a exprimé, montrant qu'il est écouté et vérifiant la compréhension.​
+-L'écoute active manifeste au patient que son message est compris, nourrit la relation de confiance et place le patient au centre du processus.​
+-L'empathie est la capacité à percevoir et à comprendre les émotions du patient.​
+
+ Questions ouvertes, reformulation, écoute active et empathie sont des techniques clés pour instaurer une relation de confiance en ETP.​
+ Apport des outils éducatifs dans l'apprentissage
+-Pour les patients : susciter l'intérêt pour le sujet, faciliter l'expression verbale et émotionnelle, augmenter la participation, fluidifier les échanges et aider à prendre du recul sur sa situation.​
+-Pour l'animateur : structurer l'intervention, faciliter l'animation, proposer une méthode reproductible et offrir un cadre cohérent pour atteindre les objectifs pédagogiques.​
+
+ Les outils éducatifs rendent les séances plus dynamiques et participatives, tout en aidant l'animateur à organiser une intervention cohérente.​
+ Intégration interactive des outils éducatifs
+-Utilisés seuls (brochures, vidéos, fiches), les supports sont souvent peu efficaces car les patients retiennent peu d'informations.​
+-Ils prennent tout leur sens lorsqu'ils s'intègrent dans une démarche interactive qui suscite le dialogue, la participation et l'envie d'apprendre, plutôt qu'une simple transmission descendante.​
+-Dans les programmes structurés, les outils servent de repères et assurent une certaine homogénéité, tout en pouvant être adaptés à chaque contexte ou groupe.​
+-Les professionnels ressentent souvent le besoin de concevoir de nouveaux outils plus adaptés aux priorités des patients, chaque outil devant avoir un objectif précis et une véritable valeur pédagogique.​
+
+ Les outils sont vraiment efficaces lorsqu'ils sont utilisés dans une démarche interactive et adaptable, centrée sur le dialogue et les besoins des patients.​
+ Outils pédagogique
+Documents patients : supports écrits ou illustrés remis au cours des séances, ils fournissent à mémoriser les messages essentiels et offrent au patient une trace écrite pour une révision ultérieure.​
+Le portrait minute : exercice de présentation très rapide qui favorise la cohésion du groupe et libère la parole dès le début de l'atelier.​
+Dessinez-vous : le patient réalise un dessin de lui-même- avec des éléments qui le représentent (par exemple une cigarette pour un fumeur), ce qui permet au soignant de mieux comprendre l'image qu'il a de lui.​
+Le Métaplan : les participants répondent à une question sur des papiers individuels, puis les idées sont regroupées par thèmes pour alimenter une discussion collective aboutissant à une synthèse commune.​
+Le photolangage : le patient choisit des images en réponse à une question ; ses choix reflètent ses émotions, ses perceptions ou ses intentions par rapport au thème abordé.​
+La ronde des décisions (cartes de Barrows) : le patient est mis en situation face à différents scénarios et doit choisir une action adaptée, ce qui développe ses compétences décisionnelles et soutient l'auto-évaluation.​
+Les jeux de plateau : jeux éducatifs qui traitent la pathologie de façon ludique ; les patients apprennent en s'amusant, partagent leurs expériences et se soutiennent mutuellement.​
+Les vidéos explicatives : des supports visuels qui facilitent la compréhension des notions clés et améliorent la mémorisation grâce à des exemples concrets.​
+Les serious games : jeux pédagogiques numériques destinés à un public connecté, dans lesquels le patient doit choisir la meilleure réaction dans différentes situations, ce qui renforce ses apprentissages de manière interactive et motivante
+4.4. Évaluation et suivi
+L’évaluation est une étape clé permettant de mesurer :
+Les connaissances acquises.
+Les compétences pratiques développées.
+Les changements de comportement observés.
+L’évaluation se fait à travers :
+Des questionnaires, grilles d’observation ou entretiens.
+La révision régulière des objectifs.
+L’ajustement du programme éducatif en fonction des résultats.
+Objectifs de l'évaluation individuelle
+Vérifier que le diagnostic éducatif est pertinent par rapport aux besoins du patient.
+S'assurer que les compétences à suivre sont clairement définies, réalistes et en accord avec les priorités d'apprentissage du patient.
+Identifier si de nouvelles données importantes sont apparues et n'avaient pas été prises en compte initialement.
+Discuter avec le patient du contenu des séances d'ETP et juger s'il est suffisamment développé au regard des compétences à suivre ou à maintenir.
+Vérifiez si les techniques pédagogiques utilisées sont adaptées à l'acquisition des diverses compétences.
+Expression du vécu de diabete
+
+-Permettre au patient d'exprimer son expérience de diabete et sa manière de la gérer au quotidien.
+-Partir du ressenti du patient sur les bénéfices de l'ETP, les changements réalisés, la satisfaction de ses besoins, son autonomie et sa perception du risque.
+-Recueillir les sentiments et le vécu du patient concernant le soutien de ses proches, la pression sociale et environnementale.
+-Explorer la façon dont le patient réagit aux incidents, organiser la gestion de sa maladie et construire son projet de vie.
+
+  Schéma du processus éducatif (diagnostic → objectifs → mise en œuvre → évaluation).
+
+
+“L’ETP est un partenariat. Le soignant accompagne le patient vers l’autonomie, sans se substituer à lui.”
+
+Critere de qualite
+Critères de qualité d’une éducation thérapeutique du patient 
+L’éducation thérapeutique du patient doit : 
+● être centrée sur le patient : intérêt porté à la personne dans son ensemble, prise de décision partagée, 
+respect des préférences ; 
+● être scientifiquement fondée (recommandations professionnelles, littérature scientifique pertinente, consen
+sus professionnel) et enrichie par les retours d’expérience des patients et de leurs proches pour ce qui est 
+du contenu et des ressources éducatives ; 
+● faire partie intégrante du traitement et de la prise en charge ; 
+● concerner la vie quotidienne du patient, les facteurs sociaux, psychologiques et environnementaux ; 
+● être un processus permanent, qui est adapté à l’évolution de la maladie et au mode de vie du patient ; elle 
+fait partie de la prise en charge à long terme ; 
+● être réalisée par des professionnels de santé formés à la démarche d’éducation thérapeutique du patient 
+et aux techniques pédagogiques, engagés dans un travail en équipe dans la coordination des actions ; 
+● s’appuyer sur une évaluation des besoins et de l’environnement du patient (diagnostic éducatif), et être 
+construite sur des priorités d’apprentissage perçues par le patient et le professionnel de santé; 
+● se construire avec le patient, et impliquer autant que possible les proches du patient ; 
+● s’adapter au profil éducatif et culturel du patient, et respecter ses préférences, son style et rythme 
+d’apprentissage ; 
+● être définie en termes d’activités et de contenu, être organisée dans le temps, réalisée par divers moyens 
+éducatifs : 
+● utilisation de techniques de communication centrées sur le patient, 
+● séances collectives ou individuelles, ou en alternance, fondées sur les principes de l’apprentissage chez 
+l’adulte (ou l’enfant), 
+● accessibilité à une variété de publics, en tenant compte de leur culture, origine, situation de handicap, 
+éloignement géographique, ressources locales et du stade d’évolution de la maladie, 
+● utilisation de techniques pédagogiques variées, qui engagent les patients dans un processus actif d’appren
+tissage et de mise en lien du contenu des programmes avec l’expérience personnelle de chaque patient ; 
+● être multiprofessionnelle, interdisciplinaire et intersectorielle, intégrer le travail en réseau ; 
+● inclure une évaluation individuelle de l’ETP et du déroulement du programme. 
+Source : HAS-Inpes. 2007. Guide méthodologique. Structuration d’un programme d’éducation thérapeutique du patient dans le champ de la maladie chronique.
+
+
+ [Image à insérer] : Exemple de séance d’éducation collective.
+
+
+“Un patient éduqué est un partenaire compétent dans le soin.”
+
+
+
+
+
+
+
+
+
+
+
+IV. APPLICATION PRATIQUE DE L’ETP AU DIABÈTE
+
+
+
+
+L’application pratique de l’éducation thérapeutique dans le diabète repose sur la mise en œuvre d’actions concrètes permettant au patient d’acquérir les compétences nécessaires à la gestion quotidienne de sa maladie.
+L’objectif est de transformer les connaissances en comportements durables, favorisant le maintien de l’équilibre glycémique et la prévention des complications.
+Les séances éducatives doivent être planifiées, structurées et évaluées selon une méthodologie scientifique rigoureuse.
+
+
+
+Bilan educatif partage ou diagnostic éducatif  du patient diabétique
+Le bilan éducatif partagé, ou diagnostic éducatif, se déroule en tête-à-tête avec un professionnel formé à l'ETP , à partir d'un questionnaire d’entretien (ANNEXE 1). Ce questionnaire est destiné aux patients, adultes, adolescents ou enfants atteints de diabète, éventuellement accompagnés d'un proche.
+Cette étape initiale du parcours en éducation thérapeutique permet de mieux comprendre la personne diabétique et son environnement. Elle vise à repérer ses besoins et ses attentes, mais aussi à l'accompagner dans la définition des compétences qu'elle souhaite développer, consolider ou préserver pour vivre avec son diabète. La hiérarchisation de ces objectifs d'apprentissage se fait en accord avec le patient et sa famille, en fonction de leurs priorités.
+Les clés de bilan éducatifs des diabétique
+Cet entretien nécessite un climat de confiance, notamment avec les personnes diabétiques, en respectant les principes suivants :
+-Assurer la confidentialité de tout ce qui est dit pendant l'entretien.
+-Offrir un accueil de qualité, avec une écoute active , une attitude bienveillante et empathique.
+-Utiliser des questions ouvertes pour accéder au vécu du patient diabétique : « Parlez-moi de votre diabète », « Racontez-moi comment vous gérez votre traitement », etc.
+-Reformuler régulièrement les propositions du patient pour vérifier la bonne compréhension.
+-Prévoir si possible un temps d'échange seul à seul avec le patient, en particulier chez les adolescents diabétiques.
+Pour les personnes diabétiques, le bilan éducatif peut être reformulé ainsi :
+clés biomédicale : Quel type de diabète présente l'enfant, depuis quand, quels sont les traitements en cours, comment évolue la glycémie, ya-t-il d'autres problèmes de santé associés ?
+clés socio-professionnelle : Avec qui vit l'enfant, dans quelle classe est-il, comment se passer la scolarité et les loisirs, quel est l'impact du diabète sur sa vie quotidienne et sur celle de la famille, quelles sont les ressources d'aide disponibles (famille, école, associations, réseau social, etc.) ?
+clés psycho-affective : Comment l'enfant vit-il son diabète, quelles émotions ressent-il (peur, colère, tristesse, refus, acceptation), quelles stratégies utiliser-t-il pour s'adapter ; comment les parents vivent-ils eux-mêmes la maladie de leur enfant ?
+cles cognitive : Que sait l'enfant de son diabète et de son traitement, comment perçoit-il l'évolution de la maladie, que comprend-il des risques et de la surveillance (glycémie, régime, activité physique, insuline, etc.) ?
+Projet de vie de l'enfant et de sa famille : Quels sont leurs attentes et leurs souhaits, que veulent-ils améliorer dans leur quotidien avec le diabète, quels comportements souhaitent-ils faire évoluer, quels obstacles repèrent-ils au changement et à l'adhésion aux recommandations éducatives ?
+Choisir les Objectifs éducatifs
+Avoir une première idée de ses besoins, de ceux de ses proches, ainsi que de leur motivation et de leurs capacités à changer leurs habitudes de vie.
+Évaluer les connaissances sur la maladie et les traitements.
+Comprendre les freins psychologiques, culturels et sociaux.
+Repérer déjà certains facteurs qui facilitent ou freinent l'adhésion du patient au programme d'éducation thérapeutique et à la changement.
+Ce bilan permet ensuite de reformuler avec le patient et/ou sa famille les objectifs d'apprentissage et d'autosoins à suivre pour mieux vivre avec le diabète.
+
+🩺 Le diagnostic éducatif n’est pas un examen mais un dialogue empathique entre soignant et patient.
+
+Après l’analyse des besoins, l’équipe définit un programme personnalisé en accord avec le patient.
+Ce programme comprend :
+Les objectifs spécifiques à atteindre ;
+Le contenu des séances (thèmes, durée, fréquence) ;
+Les méthodes pédagogiques choisies ;
+Organisation des ateliers proposes
+Les ateliers d'ETP pour les personnes diabétiques commencent par un temps commun réunissant les patients, leurs proches et les soignants.
+*Les participants sont d'abord accueillis, puis chacun se présente brièvement (prénom, âge, type de diabète, principaux problèmes rencontrés, soignant référent) et exprime ses attentes vis-à-vis de l'atelier.
+*L'équipe précise ensuite les objectifs de la séance et rappelle les règles de fonctionnement du groupe : respect de la parole de chacun, confidentialité des échanges, absence de jugements, possibilité d'échanger plus librement pendant les pauses et respect des horaires.
+
+
+
+Atelier : MIEUX CONNAITRE LE DIABETE
+Bien souvent, le diabète passe inaperçu car il ne provoque pas de symptômes, tout en restant une maladie évolutive qui expose à un risque important de complications parfois graves et définitives. Pourtant, dans de nombreux cas, ces complications peuvent être évitées, ou au moins retardées, en adoptant de bonnes habitudes d'hygiène de vie et en suivant un traitement médical adapté lorsque cela s'avère nécessaire.​
+Votre implication dans la prise en charge est donc essentielle , car elle suppose des changements et des ajustements de mode de vie.
+Qu’est-ce que le diabète
+Le diabète est une maladie chronique dans laquelle le taux de sucre dans le sang reste trop élevé de façon durable. C'est une affection fréquente, dont le nombre de personnes atteintes augmente notamment avec le vieillissement de la population et les modifications du mode de vie (sédentarité, surpoids, alimentation déséquilibrée…).​
+On distingue principalement deux formes de diabète : le diabète de type 1 et le diabète de type 2. Une personne est considérée comme diabétique si sa glycémie est à deux reprises supérieures ou égales à 1,26 g/L à jeun, ou si elle atteint ou dépasse 2 g/L à n'importe quel moment de la journée en présence de signes comme une soif intense, des urines fréquentes ou une perte de poids inexpliquée.​
+
+
+Après un repas, lorsque le taux de sucre dans le sang augmente, le pancréas libère une hormone appelée insuline. L'insuline est la seule hormone capable de faire baisser la glycémie en facilitant soit le stockage du sucre dans le foie et les muscles sous forme de glycogène, rapidement disponible en cas de besoin, soit son stockage dans le foie et le tissu adipeux sous forme de graisses de réserve.
+Le diabète de type 1
+ autrefois appelé diabète insulino-dépendant ou diabète juvénile, survient le plus souvent chez l'enfant, l'adolescent ou le jeune adulte et peut parfois être héréditaire. Il apparaît lorsque le pancréas ne parvient plus à produire une quantité suffisante d'insuline, à cause de la destruction des cellules bêta pancréatiques par le système immunitaire.​
+La sécrétion d'insuline diminue puis disparaît, ce qui entraîne progressivement une augmentation durable de la glycémie. Le traitement du diabète de type 1 repose donc sur des injections d'insuline destinée à remplacer celle que le pancréas n'est plus capable de fabriquer
+
+
+
+Le diabète de type 2
+ autrefois appelé diabète de la maturité ou diabète gras, apparaît le plus souvent à l'âge adulte , surtout chez les personnes en surpoids ou obèses. Il est favorisé par plusieurs facteurs comme les familiaux, l'obésité abdominale, la sédentarité, l'âge et les mauvaises habitudes alimentaires.​
+Dans ce diabète, on observe à la fois une diminution de l'efficacité de l'insuline sur ses organes cibles (foie, muscles), que l'on appelle insulinorésistance, et un défaut progressif de sécrétion d'insuline par le pancréas qui finit par ne plus en produire suffisamment. La glycémie reste alors trop élevée en permanence, au-delà des valeurs normales.​
+Le traitement du diabète de type 2 repose sur l'amélioration de l'hygiène de vie (alimentation, activité physique) et, si besoin, sur des médicaments antidiabétiques associés à la prise en charge des autres facteurs de risque cardiovasculaires comme l'hypertension, l'excès de cholestérol ou le tabagisme. Souvent silencieux et indolore, le diabète de type 2 peut rester longtemps inaperçu et n'être découvert qu'au moment d'une complication.
+
+ 
+
+Mieux connaître les complications pour mieux les prévenir
+Les complications du diabète peuvent toucher les petits vaisseaux sanguins (microvasculaires) ou les gros vaisseaux (macrovasculaires). Elles sont principalement liées à une hyperglycémie persistante et concernent surtout les yeux, les reins, les nerfs et le système cardiovasculaire.
+
+
+Les complications aiguës
+ Hypoglycémie
+Définition : glycémie < 0,70 g/L.
+Causes principales :
+Surdosage d’insuline ou d’antidiabétiques oraux.
+Repas sautés ou retardés.
+Exercice physique non compensé.
+Signes cliniques :
+Tremblements, sueurs, faim, palpitations, confusion, troubles visuels.
+Dans les cas sévères : perte de connaissance ou coma hypoglycémique.
+Conduite à tenir :
+Administrer 15 g de sucre rapide (3 morceaux de sucre, jus de fruits).
+Recontrôler la glycémie après 15 minutes.
+En cas de perte de conscience : injection de glucagon (1 mg) en urgence.
+
+ Hyperglycémie
+Définition : glycémie > 2 g/L.
+Causes :
+Oubli de traitement, infection, stress, alimentation excessive.
+Symptômes :
+Soif intense, polyurie, fatigue, vision trouble, perte de poids.
+Conduite à tenir :
+Vérifier la présence de cétones dans les urines ou le sang.
+Corriger par une dose d’insuline rapide selon la prescription.
+Consulter en urgence si vomissements ou signes de déshydratation.
+
+Acidocétose diabétique
+Fréquence : surtout chez les diabétiques de type 1.
+Mécanisme : absence d’insuline → utilisation des graisses → accumulation de corps cétoniques → acidification du sang.
+Signes d’alerte :
+Nausées, vomissements, douleurs abdominales, respiration rapide, haleine fruitée, somnolence.
+Prise en charge :
+Hospitalisation urgente.
+Réhydratation intraveineuse et insuline rapide en perfusion.
+
+Les complications chroniques
+La rétinopathie diabétique : L'excès de sucre modifie les vaisseaux de la rétine et provoque progressivement des œdèmes. Le dépistage par fond d'œil régulier est essentiel pour prévenir la cécité.
+
+L'atteinte rénale (néphropathie) : Les vaisseaux des reins s'épaississent et le tissu rénal se sclérose, pouvant évoluer vers une insuffisance rénale terminale qui nécessite une dialyse. La prévention repose sur un bon équilibre glycémique.
+Les maladies cardiovasculaires : Le diabète augmente la sensibilité aux complications comme l'athérome (accumulation des lipides dans les artères), favorisant l'obstruction des vaisseaux et les accidents vasculaires précoces et fréquents chez les personnes diabétiques.
+La neuropathie et le pied diabétique : La neuropathie correspond à une altération des nerfs, surtout dans les pieds (pied diabétique). Les symptômes les plus courants sont la diminution de la sensibilité douloureuse, de la perception au toucher, à la chaleur et au froid, ainsi que la présence de douleurs (brûlures, crampes, fourmillements).
+Les plaies du pied dues à la neuropathie apparaissent souvent sans douleur, peuvent évoluer vers des ulcérations, puis des infections graves, voire des amputations. Une prévention rigoureuse et des soins réguliers chez le pédicure-podologue sont indispensables.
+Zoom sur le pied du diabétique
+
+La prévention des complications au niveau des pieds est essentielle. Examinez attentivement vos pieds chaque jour : si vous remarquez une blessure ou un changement de couleur, prévenez rapidement votre médecin.
+Des ongles mal coupés, des ampoules ou des durillons peuvent s'infecter : consultez régulièrement un pédicure-podologue pour limiter les callosités.
+La diminution de la sensibilité au niveau des pieds empêche souvent de ressentir les blessures : soyez toujours vigilant !
+Toute blessure aux pieds nécessite un suivi rigoureux : la cicatrisation peut être lente et difficile.
+Les bons gestes à adopter
+Hygiène  : Lavez vos pieds chaque jour à l'eau tiède (36 – 37 °C) avec un savon doux.
+Séchez soigneusement vos pieds, en insistant entre les orteils pour éviter les mycoses.
+Examinez régulièrement vos pieds à la recherche de zones sèches, de rougeurs, d'ampoules ou de plâtres. Utilisez un miroir ou demandez de l'aide.
+Hydratez vos pieds avec une lotion non parfumée, en endommageant les zones de lésions et l'espace entre les orteils.
+Coupez vos droits d'ongles avec un ciseau spécial : évitez les ongles incarnés, limez-les pour qu'ils soient à la même hauteur que le bout du doigt.
+Ne marchez jamais pieds nus , même à la maison ou sur un tapis de prière ; changez de chaussettes tous les jours.
+En cas de blessure au pied, il est conseillé d'effectuer le tayammoum (ablution sèche).
+L’obesite et le diabète
+
+Bien que leur origine génétique soit différente, l'obésité et le diabète sont deux maladies très liées. En effet, l'obésité est le premier facteur de risque du diabète et 80% des obèses sont diabétiques.
+Plus la quantité de graisse est importante dans le corps et plus l’organisme a besoin d’insuline. Le pancréas, d’où est synthétisée l’insuline, est surmené et s’il n’arrive pas à produire assez d’insuline (ou totale absence), alors le diabète peut se développer chez le sujet obèse. L’obésité peut donc être une cause du diabète.
+
+
+
+Atelier: Autosurveillance glycémique et l’équilibre métabolique
+
+L’autosurveillance glycémique constitue un pilier fondamental de la prise en charge du diabète.
+Elle permet au patient de suivre l’évolution de sa glycémie en temps réel, d’ajuster son traitement et son comportement en conséquence, et de participer activement à la gestion de sa maladie.
+L’objectif de l’autosurveillance est de maintenir la glycémie dans les valeurs cibles recommandées, afin de prévenir les complications à long terme et d’améliorer la qualité de vie.
+
+ Buts de l’autosurveillance
+Évaluer l’efficacité du traitement en cours (insuline ou antidiabétiques oraux).
+Adapter les doses d’insuline ou la prise alimentaire selon les résultats.
+Prévenir les hypoglycémies et les hyperglycémies.
+Identifier les facteurs influençant la glycémie (repas, activité physique, stress, maladie).
+Renforcer la motivation et la compréhension du patient.
+ “L’autosurveillance est un outil d’autonomie, pas un instrument de contrainte.”
+
+Les gestes d’autosurveillance pour garder l’équilibre
+
+ La glycémie capillaire
+C’est la méthode la plus couramment utilisée.
+Elle repose sur la mesure du glucose à partir d’une goutte de sang prélevée au bout du doigt.
+La glycémie désigne la quantité de sucre présente dans le sang. Cette valeur fluctue tout au long de la journée, influe sur l'alimentation, l'activité physique, les émotions ou le stress.
+On distingue trois situations :
+Hyperglycémie : glycémie supérieure à 1,10 g/l.
+Glycémie normale :
+A jeune : entre 0,70 g/l et 1,10 g/l
+Après le repas (1h30) : Inférieure à 1,40 g/l
+Hypoglycémie : glycémie en dessous de 0,70 g/l
+Le taux d'hémoglobine glyquée (HbA1c) donne la moyenne des glycémies sur les trois derniers mois et aide à évaluer l'équilibre du diabète.
+
+Étapes de la mesure :
+1.Lavez-vous soigneusement les mains au savon (évitez l'alcool pour ne pas fausser les résultats) et séchez-les bien.
+2.Stimulez la circulation sanguine en massant votre doigt, puis prélevez une goutte de sang sur le côté du 3e, 4e ou 5e doigt (évitez de piquer la pulpe).
+3.Placez la goutte de sang sur une bandelette neuve.
+4.Insérez la bandelette dans le lecteur et notez le résultat dans votre carnet de suivi.
+5.Jetez les déchets (bandelettes et lancettes) dans une poubelle adaptée ou un conteneur spécifique pour objets piquants.
+
+
+
+
+Fréquence :
+1 à 4 fois par jour selon le type de diabète et le traitement.
+Plus fréquente en cas de déséquilibre ou de modification thérapeutique.
+
+Les capteurs de glucose (systèmes FGM et CGM)
+Les technologies récentes ont permis le développement de capteurs de glucose en continu :
+FGM (Flash Glucose Monitoring) : mesure interstitielle du glucose par capteur sur la peau, lecture à l’aide d’un lecteur ou smartphone.
+CGM (Continuous Glucose Monitoring) : enregistre en continu la glycémie interstitielle et transmet les données à une application mobile.
+Avantages :
+Suivi continu sans piqûre répétée.
+Alarmes en cas d’hypo- ou hyperglycémie.
+Aide à l’adaptation précise du traitement.
+
+
+
+ 
+ Valeurs cibles de la glycémie
+Les valeurs cibles recommandées par l’ADA (2024) pour la majorité des adultes diabétiques sont :
+Moment de la mesure
+Valeur cible (g/L)
+
+
+À jeun / avant repas
+0,80 – 1,30
+
+
+2h après repas
+< 1,80
+
+
+Au coucher
+1,00 – 1,50
+
+
+HbA1c (objectif global)
+< 7,0 %
+
+
+
+Ces valeurs peuvent être ajustées selon :
+L’âge du patient,
+Les comorbidités,
+Le risque d’hypoglycémie,
+Les objectifs individuels fixés par le médecin.
+
+ Tenue du carnet glycémique    ANNEXE NOVONORDISK
+Le carnet glycémique est un outil de communication entre le patient et l’équipe soignante.
+Il permet de consigner :
+Les résultats des glycémies quotidiennes.
+Les doses d’insuline administrées.
+Les repas, les activités physiques et les événements intercurrents.
+Utilité :
+Visualiser les variations de la glycémie.
+Identifier les déséquilibres et leurs causes.
+Adapter le traitement lors des consultations de suivi.
+ 
+
+ Interprétation des résultats
+L’analyse des glycémies doit être contextualisée :
+Une glycémie élevée après un repas riche en glucides n’a pas la même signification qu’à jeun.
+Les glycémies basses doivent être confrontées à la dose d’insuline ou à l’activité physique.
+Hypoglycémie
+Qu'est-ce que l'hypoglycémie ?
+L'hypoglycémie se produit lorsque le taux de sucre dans le sang devient trop bas, c'est-à-dire que le sang ne contient pas assez de glucose. On parle d'hypoglycémie lorsque la glycémie descend sous 0,70 g/L (3,9 mmol/L). Toutefois, on considère également une hypoglycémie lorsqu'elle est en dessous de 0,50 g/L (2,75 mmol/L) ou lorsqu'il existe des symptômes évocateurs.
+Les signes qui doivent alerter:
+Les symptômes de l'hypoglycémie sont multiples et il est essentiel de savoir les identifier. Ils peuvent varier d'une personne à l'autre et ne sont pas tous présents à chaque épisode. 
+(Il est à noter que certains signes peuvent s'atténuer avec le temps ou selon certaines situations.)
+Irritabilité, nervosité,Vision floue,Maux de tête,Fatigue, somnolence,Tremblements,Pâleur
+Sensation de faim,Sueurs, transpiration,Palpitations,Vertiges
+
+
+
+Les causes possibles
+-Changement dans l'alimentation
+-Effort physique imprévu ou excessif
+-Erreur de dosage ou modification du traitement
+-Consommation excessive d'alcool
+Que faire en cas d'hypoglycémie ?
+Il est essentiel d'avoir en permanence sur soi une source de sucre rapide pour intervenir rapidement en cas de besoin.
+Les Étapes à suivre:
+ Dès l'apparition des premiers signes, interrompez toute activité et gardez votre calme.
+-Vérifiez votre glycémie pour confirmer l'hypoglycémie.
+-Prenez immédiatement des sucres rapides, puis consommez une source de sucres lents.
+Comment se sauver efficacement ?
+-Prenez des sucres rapides  : par exemple, 3 morceaux de sucre (15 g), un verre de jus de fruit/soda (environ 15 cl), ou 1 à 2 cuillerées à café de miel ou de confiture.
+-Contrôlez votre glycémie après 15 minutes. Si elle reste basse, reprennez des sucres rapides.
+-Ensuite, consommez des sucres prêtés (pains, biscuits, etc.) pour stabiliser le taux de sucre.
+Pour les enfants : donner 1 morceau de sucre (5 g) par tranche de 20 kg de poids, ou 1 sucre supplémentaire tous les 10 kg lors d'un effort physique intense.
+
+
+ Hyperglycémie
+On parle d'hyperglycémie lorsque la glycémie à jeun dépasse 1,26 g/L (7 mmol/L) .Dés que la glycemie dépasse 2,50 g/L, il est conseillé de vérifier la présence de sucre et de corps cétoniques dans les urines à l'aide de bandelettes.
+Symptômes à reconnaître
+Les signes d'hyperglycémie sont nombreux et peuvent varier selon les personnes. Ils ne sont pas toujours tous présents lors d'un épisode ; certains peuvent s'atténuer avec le temps ou selon les circonstances.
+Soif intense,Besoin fréquent d'uriner,Douleurs abdominales,Fatigue,Sensation de faim,Bouche sèche,Vertiges,Nausées
+
+
+Causes possibles
+-Changement dans le traitement médicamenteux
+-Infection (comme la grippe ou une dérive)
+-Médicament favorisant la hausse du taux de sucre
+-Forte émotion, qu'elle soit due au stress, à la joie ou à la tristesse
+Que faire en cas d'hyperglycémie ?
+L'hyperglycémie provoque souvent une grande soif et une augmentation du besoin d'uriner. Pour éviter la déshydratation, il est essentiel de compenser la perte d'eau en buvant beaucoup, de préférence des boissons non sucrées. Pensez à contrôler régulièrement votre glycémie et à consulter votre médecin si besoin.
+Les étapes à suivre
+Mesurez immédiatement votre glycémie pour vérifier votre taux de sucre dans le sang.
+Si votre glycémie dépasse 2,50 g/L, recherchez la présence d'acétone dans les urines à l'aide de bandelettes, ou dans le sang avec un appareil adapté. 
+Si l'acétone est présente ou en cas de taux élevé, consultez rapidement un médecin, car il s'agit d'une urgence.
+En cas de fièvre , hydratez-vous abondamment.
+Hba1c et glycémie moyenne : quelle relation ?
+L'HbA1c (en %) reflète la moyenne du taux de sucre fixé sur l'hémoglobine des globules rouges, sur environ 3 mois.
+La glycémie (en g/L) indique la quantité de sucre à un instant donné.
+Plus les glycémies sont élevées, plus le taux d'HbA1c augmente.
+La cible d'HbA1c est déterminée avec le médecin selon l'âge et la situation. Si le taux est trop élevé, un ajustement du traitement ou du mode de vie sera nécessaire
+Conduite à tenir :
+Vérifier la présence de corps cétoniques.
+Corriger par une dose d’insuline rapide si prescrite.
+Boire abondamment de l’eau.
+Contacter le médecin si persistance.
+
+“Chaque chiffre de glycémie doit être interprété avec le contexte clinique et non isolément.”
+
+7. Rôle du professionnel de santé dans l’autosurveillance
+Le personnel de santé doit :
+Former le patient à l’utilisation correcte du matériel.
+Expliquer la signification des résultats et les actions à entreprendre.
+Motiver et valoriser les efforts du patient.
+Vérifier la technique lors des visites de suivi.
+Aider à interpréter les tendances et à ajuster le traitement.
+Le rôle de l’infirmier(ère) est essentiel dans l’accompagnement technique et émotionnel du patient.
+
+Impact de l’autosurveillance sur l’équilibre glycémique
+De nombreuses études ont démontré que l’autosurveillance régulière améliore :
+Le contrôle glycémique (diminution de l’HbA1c).
+L’observance thérapeutique.
+La détection précoce des déséquilibres.
+L’autonomie du patient dans la gestion de sa maladie.
+Toutefois, pour être efficace, elle doit être accompagnée d’une formation éducative appropriée et d’un suivi régulier.
+
+ “L’autosurveillance n’est pas une contrainte, mais un moyen de liberté pour le patient diabétique.”
+
+
+
+Atelier:  L’INSULINOTHÉRAPIE ET LES AUTRES TRAITEMENTS DU DIABÈTE
+
+L’insuline occupe une place centrale dans le traitement du diabète, en particulier du diabète de type 1 et de certains diabètes de type 2 non équilibrés par les traitements oraux.
+Son utilisation requiert une éducation thérapeutique approfondie, afin que le patient puisse comprendre le rôle de l’insuline, maîtriser les techniques d’injection et prévenir les complications liées à son usage.
+L’objectif principal du traitement insulinique est de reproduire le plus fidèlement possible la sécrétion physiologique de l’insuline pour maintenir une glycémie proche de la normale, tout en évitant les hypoglycémies.
+
+
+ Rôle physiologique de l’insuline
+L’insuline est une hormone peptidique sécrétée par les cellules β des îlots de Langerhans du pancréas.
+Elle agit en facilitant l’entrée du glucose dans les cellules et en inhibant la production hépatique de glucose.
+Fonctions principales :
+Favoriser la glycolyse (utilisation du glucose comme source d’énergie).
+Stimuler la synthèse du glycogène (stockage hépatique du glucose).
+Inhiber la lipolyse (destruction des graisses).
+Stimuler la synthèse protéique.
+En cas de déficit en insuline, le glucose s’accumule dans le sang (hyperglycémie) et l’organisme utilise les graisses comme source d’énergie, entraînant la production de corps cétoniques.
+
+Types d’insuline
+De nombreuses insulines sont disponibles, classées selon la rapidité de leur action et leur durée d'effet. La majorité d'entre elles (sauf certaines insulines intermédiaires) existant sous forme humaine ou comme analogues, chaque type ayant des caractéristiques spécifiques. Le choix du type d'insuline le plus adapté à votre diabète est du ressort du médecin.
+Les insulines se différencient selon leur durée d’action :
+Type d’insuline
+Début d’action
+Pic d’action
+Durée totale
+Exemples
+Ultra-rapide
+10-15 min
+1-2 h
+3-4 h
+Lispro, Aspart, Glulisine
+Rapide
+30-45 min
+2-4 h
+6-8 h
+Actrapid, Humulin R
+Intermédiaire (NPH)
+1-2 h
+4-8 h
+12-18 h
+Insulatard, Humulin N
+Basale (lente)
+1-2 h
+Sans pic
+24 h
+Glargine, Detemir
+Ultra-longue
+1-2 h
+Sans pic
+>36 h
+Degludec
+
+
+
+
+Schémas d’insulinothérapie
+L’insulinothérapie doit être individualisée selon le type de diabète, le mode de vie et les objectifs glycémiques du patient.
+ Schéma basal-bolus
+Association d’une insuline basale (longue durée) et d’une insuline rapide avant les repas.
+Reproduit la sécrétion physiologique normale.
+Recommandé pour les patients jeunes ou actifs.
+ Schéma bi-injection (pré-mélangé)
+Deux injections par jour d’un mélange d’insuline rapide et intermédiaire.
+Adapté aux patients ayant des horaires de repas réguliers.
+Pompe à insuline
+Administration continue d’insuline rapide via un dispositif électronique portable.
+Permet une grande flexibilité, notamment pour les diabétiques de type 1.
+Requiert une formation spécifique et une surveillance attentive.
+
+
+
+Les seringues à insuline
+Il existe différents volumes de seringues :
+0,3 mL (30 unités d'insuline)
+0,5 mL (50 unités d'insuline)
+1,0 mL (100 unités d'insuline)
+Selon la prescription, la seringue peut contenir une seule insuline ou un mélange d'insuline rapide et d'insuline prolongée.
+Les aiguilles sont de différentes longueurs selon la technique d'injection et le matériel utilisé. Pour les stylos, il faut utiliser les aiguilles spécifiques qui leur sont adaptées.
+L'insuline se conserve généralement au réfrigérateur et doit être manipulée selon les recommandations indiquées.
+Les stylos à insuline
+Il existe deux types de stylos :
+Stylos rechargeables avec cartouche  : ils s'utilisent avec des cartouches adaptées à chaque modèle, permettant de doser l'insuline par demi, une ou deux unités.
+
+
+
+
+Stylos jetables  : prêts à l'emploi, ils s'utilisent pour une injection avec choix d'une ou deux unités d'insuline.
+
+Le stylo facilite l'injection d'insuline, bien plus que la seringue. Le choix du stylo et des aiguilles se fait avec le médecin pour s'adapter au mieux à vos besoins.
+Conseils pratiques
+-Vérifiez toujours la date de péremption indiquée sur l'emballage.
+-Ne garde pas un flacon, une cartouche ou un stylo entamé plus d'un mois.
+-Stockez les insulines non entamées au réfrigérateur, mais gardez celles-ci en cours d'utilisation à température ambiante (moins de 25 °C), à l'abri de la chaleur et du soleil.
+-Le stylo est pratique, mais il peut se casser ou se perdre : il faut savoir injecter avec une seringue, et toujours avoir une seringue et un flacon ou un autre stylo de secours, même si vous utilisez habituellement un stylo.
+Technique d’injection de l’insuline
+La bonne technique d’injection est essentielle pour garantir l’efficacité du traitement et prévenir les complications locales.
+ Sites d’injection
+Abdomen (zone privilégiée pour l’absorption rapide).
+Cuisse.
+Bras.
+Fesse.
+Vitesse d'absorption :
+Abdomen > bras > cuisse et haus de fesse
+Il est essentiel d’effectuer une rotation régulière des sites afin d’éviter la lipodystrophie (induration ou creux sous-cutané).
+
+ C'est pourquoi il est conseillé :
+-De conserver la même région d'injection pour un même moment de la journée.
+-D'utiliser les zones à absorption rapide (abdomen, bras) le matin, et les zones plus lentes (cuisses, haut de fesses) le soir.
+-De réserver les zones rapides pour l'insuline rapide et les zones lentes pour l'insuline à action prolongée.
+-Il est recommandé d'espacer chaque point d'injection de 1 à 2,5 cm dans une même zone.
+Cas particuliers
+-En cas d'activité sportive, certains muscles sont plus sollicités : faire les injections dans une zone qui ne sera pas mobilisée par le sport. 
+Exemple : pour le vélo, privilégier bras/abdomen (éviter les cuisses)Certaines -situations (par exemple, la chaleur) accélèrent la vitesse de résorption de l'insuline et augmentent le risque d'hypoglycémie.
+Étapes de l’injection
+Se laver les mains.
+Choisir un site d’injection sain.
+Monter une aiguille neuve sur le stylo.
+Amorcer le stylo (éliminer l’air).
+Injecter perpendiculairement à la peau.
+Maintenir le stylo 10 secondes après l’injection.
+Jeter l’aiguille dans un collecteur sécurisé.
+ Erreurs fréquentes et complications
+Erreur
+Conséquence
+Prévention
+Injection dans une lipodystrophie
+Absorption irrégulière
+Rotation des sites
+Réutilisation des aiguilles
+Infection, douleur
+Aiguille neuve à chaque injection
+Oubli de dose
+Hyperglycémie
+Carnet de suivi
+Surdosage
+Hypoglycémie
+Formation et auto-contrôle
+
+Complications locales possibles :
+Rougeur, douleur, ecchymose.
+Lipohypertrophie ou lipoatrophie.
+
+Les antidiabétiques oraux et injectables non insulinés
+ Les principales classes
+Classe pharmacologique
+Exemples
+Mécanisme d’action
+Biguanides
+Metformine
+Diminue la production hépatique de glucose
+Sulfamides hypoglycémiants
+Glibenclamide, Gliclazide
+Stimulent la sécrétion d’insuline
+Inhibiteurs de la DPP-4
+Sitagliptine, Vildagliptine
+Prolongent l’effet des incrétines
+Analogues du GLP-1
+Liraglutide, Dulaglutide
+Stimulent l’insuline, réduisent l’appétit
+Inhibiteurs de SGLT2
+Empagliflozine, Dapagliflozine
+Augmentent l’élimination du glucose urinaire
+
+
+ Choix thérapeutique
+En première intention : Metformine.
+Si échec : ajout d’un autre antidiabétique oral ou d’un incrétinomimétique.
+En cas de déséquilibre persistant : passage à l’insuline.
+ Éducation du patient sous insulinothérapie
+L’éducation du patient diabétique sous insuline est un élément clé de la réussite thérapeutique.
+Elle doit aborder :
+Les objectifs glycémiques personnalisés.
+La manipulation correcte du matériel.
+Les gestes d’injection et d’hygiène.
+La gestion des hypoglycémies.
+L’adaptation du traitement selon les repas, l’activité ou la maladie.
+Le professionnel de santé doit :
+Vérifier régulièrement la technique du patient.
+Renforcer la motivation et la confiance.
+Mettre à jour les connaissances lors de chaque consultation.
+“Bien injecter, c’est mieux traiter.”
+
+
+
+L'insulinothérapie fonctionnelle (ITF)
+-L'insulinothérapie fonctionnelle (ITF) est un programme d'éducation thérapeutique du patient (ETP) qui vise à rendre le patient plus autonome dans la gestion quotidienne de son diabète.​
+-La HAS a défini l'ETP comme un processus continu qui aide le patient à gérer au mieux sa vie avec une maladie chronique et qui fait partie intégrante de la prise en charge.​
+-L'ITF apprend à adapter les doses d'insuline au mode de vie (repas, activité physique, imprévus), plutôt que d'adapter la vie du patient à des doses fixes.
+Patients concernés
+-L'ITF s'adresse surtout aux patients diabétiques de type 1 sous schéma basal-bolus (multi-injections) ou pompe, car ces schémas reproduisent le mieux une sécrétion physiologique.
+-Certains patients insulinorequérants DT2 peuvent également être concernés si un ajustement fin des doses est nécessaire (selon les objectifs, l'éducation et le suivi).
+Objectifs glycémiques (repères)
+-Les cibles glycémiques doivent être personnalisées, mais les recommandations de suivi incluent l'autosurveillance pour adapter l'insuline au quotidien.
+-Avec capteur, un repère fréquemment utilisé est le « Time in range » avec une cible 0,70–1,80 g/L > 70% (à adaptateur au profil).
+
+Principe basal–bolus (les 2 composantes)
+-Insuline basale : couvre les besoins « de base » entre les repas et la nuit (débit basal en pompe, ou insuline lente/intermédiaire en injections).
+-Insuline rapide aux repas (bolus) : couvre les glucides du repas + éventuellement une correction si la glycémie est trop élevée.
+Comment calculer les doses (logique + exemples de doses)
+-L'ITF s'appuie sur l'autosurveillance glycémique pour ajuster les doses d'insuline en fonction de la situation (repas, activité, maladie intercurrente, etc.).
+-Dose bolus «repas» : calculée à partir du comptage des glucides et d'un ratio insuline/glucides (ex : 1 unité pour 10 g de glucides, ratio variable selon la personne et parfois selon le moment de la journée).
+-Dose « correction » : ajoutée si la glycémie est au-dessus de la cible, selon un facteur de sensibilité/correction défini avec l'équipe soignante.
+Repères de doses cités dans ton texte (à personnaliser)
+-Exemple pédagogique de sensibilité : « 1 UI baisse la glycémie d'environ 0,4 g/L » (repère utilisé dans ton texte pour illustrer une correction).
+-Exemple pédagogique de resucrage : « 15 g de sucre augmente la glycémie d'environ 0,4 g/L en 15 min » (repère cité pour illustrer la correction d'une hypoglycémie).
+-Exemple de “repas tests” et ratios variables selon le moment (dans ton texte) :
+*Petit-déjeuner 40 g de glucides avec 2 UI/10 g → 8 UI.
+*Déjeuner 80 g de glucides avec 1 UI/10 g → 8 UI.
+*Dîner 60 g de glucides avec 1,5 UI/10 g → 9 UI.
+Ajustements selon l'activité physique (exemples de ton texte)
+-Si activité intense et brève : réduction du bolus du repas précédent ou suivant d'environ 30 à 50 % selon le timing.
+-Si activité prolongée (> 2 h) : diminution plus importante des bolus (midi/soir) et parfois de la basale (ex : -50% au total selon situations), avec resucrage horaire si nécessaire.
+Enseignement (où, par qui)
+-L'ITF est enseignée via une ETP structurée, souvent en ambulatoire ou hôpital de semaine, par une équipe pluridisciplinaire (médecin, infirmier(ère), diététicien(ne)).
+-Les recommandations insistantes sur l'apprentissage : objectifs glycémiques, autosurveillance, adaptation des doses, prévention/correction des hypoglycémies.
+Gestion des hypoglycémies (repères pratiques)
+-En cas d'hypoglycémie sans troubles de conscience, la recommandation citée propose de prendre 1 à 3 morceaux de sucre puis de recontrôler la glycémie, et d'identifier la cause pour éviter la récidive.
+-La prévention repos sur l'éducation et l'adaptation des doses (repas, sport, alcool, maladie, erreurs de dose), avec réévaluation régulière.
+Atelier : alimentation et activité physique
+
+
+
+Les mesures hygiéno-diététiques constituent la base incontournable de la prise en charge du diabète, qu’il soit de type 1 ou de type 2.
+Elles visent à maintenir un équilibre glycémique optimal, à prévenir les complications et à améliorer la qualité de vie du patient diabétique.
+Elles reposent sur trois axes principaux :
+Une alimentation équilibrée, adaptée au profil du patient.
+Une activité physique régulière et sécurisée.
+L’adoption d’un mode de vie sain (arrêt du tabac, gestion du stress, sommeil réparateur).
+Alimentation : une question d'équilibre
+Que vous atteigniez le diabète de type 1 ou de type 2, il est important de porter une attention particulière à votre alimentation, car elle influence votre équilibre glycémique et votre poids. Un excès de poids ou une perte trop importante avec un impact direct sur la glycémie. Mais surveiller son alimentation ne veut pas dire se priver de tout !
+Gérer son alimentation , cela signifie avant tout manger en quantité raisonnable selon son poids, son âge. Il s'agit aussi de respecter ses sensations et ses habitudes.
+
+ Objectifs des mesures hygiéno-diététiques
+Maintenir la glycémie dans les valeurs cibles.
+Stabiliser le poids corporel ou réduire le surpoids.
+Corriger les troubles lipidiques et tensionnels.
+Prévenir les complications cardiovasculaires.
+Améliorer le bien-être global et la qualité de vie.
+“Une alimentation équilibrée, ce n’est pas se priver, c’est apprendre à mieux choisir.”
+
+l'équilibre avant tout
+Les aliments sont regroupés en 7 catégories : sucres et produits sucrés, fruits et légumes, céréales et dérivés, matières grasses, produits laitiers, protéines (viande, poisson, œufs), et boissons.
+Pour un repas équilibré, il est conseillé d'inclure tous ces groupes. Les apports énergétiques d'une alimentation équilibrée sont :
+40 à 50% de glucides : Fournit l'énergie principale pour le corps (présents dans les fruits, légumes, céréales, pains, légumineuses, pommes de terre…).
+28 à 38% de lipides : Incontournables pour l'organisme, ils jouent un rôle dans le stockage de l'énergie et la protection des cellules. Il est recommandé de privilégier les matières grasses d'origine végétale.
+15 à 30% de protéines : Essentielles au bon fonctionnement du corps, car elles participent à la fabrication et au renouvellement des tissus, ainsi qu'à la défense immunitaire.
+Veiller à avoir une part de chaque groupe d'aliment à chaque repas aide à répondre aux besoins nutritionnels de l'organisme tout en maintenant l'équilibre glycémique.
+
+
+
+Index glycémique (IG)
+L’index glycémique reflète la capacité d’un aliment à élever la glycémie.
+Les aliments à IG bas (légumineuses, légumes, céréales complètes) sont à privilégier.
+Les aliments à IG élevé (pain blanc, sucre raffiné, boissons sucrées) doivent être limités.
+
+
+Tableau – “Qu’est-ce qui influence l’IG ?” 
+Facteur qui influence l’IG
+Idée clé à faire passer
+Exemples 
+Message “à retenir” pour le patient
+Question d’animation (ETP)
+Composition / recette (type de farine, ingrédients)
+L’IG varie selon la composition et la recette, même pour un “même” aliment (pain)
+Baguette blanche : IG ~85, 56,6 g glucides/100 g - Pain complet : IG ~60, 50,6 g/100 g - Pain aux céréales : IG 55, 50,9 g/100 g
+Pour mieux contrôler la glycémie, choisir plus souvent des versions complètes/aux céréales plutôt que blanches
+“Entre baguette, complet, céréales: lequel choisir le plus souvent et pourquoi ?”
+Mode de cuisson / transformation
+La cuisson et la transformation modifient l’IG; plus c’est cuit/transformé, plus l’IG tend à augmenter
+Purée maison : IG 85, 14,6 g/100 g - Pomme de terre vapeur : IG 65, 15,5 g/100 g - Chips : IG 95, 48,7 g/100 g
+À aliment identique, la forme (purée vs vapeur vs chips) peut changer la vitesse de montée de la glycémie
+“Qu’est-ce qui change entre vapeur, purée, chips ? (texture, transformation, gras…)”
+Goût sucré ≠ IG
+Le goût sucré ne prédit pas l’IG
+Pastèque : IG 72 - Kiwi : IG 58 - Cerise : IG 22
+Ne pas se fier uniquement au goût: vérifier l’IG (et la portion)
+“Quel aliment paraît le plus sucré… et lequel a le plus grand IG ?”
+Quantité de sucres vs effet glycémique (rôle de l’IG)
+Deux aliments avec la même quantité de sucre peuvent faire monter la glycémie différemment car l’IG change la rapidité de la hausse
+Principe: plus l’IG est élevé, plus la hausse est rapide
+L’IG aide à anticiper la vitesse de hausse; la quantité (portion) reste importante aussi
+“Dans la vraie vie, comment utiliser l’IG: pour choisir, pour comparer, pour planifier un repas ?”
+
+Tableau – Exemples de fruits (pour 100 g) 
+Aliment
+IG
+Glucides (g/100 g)
+kcal (pour 100 g)
+Lecture ETP (ce que ça montre)
+Dattes fraîches
+103
+62,5 g
+282 kcal
+Très riche en sucre, IG très élevé → impact glycémique potentiellement rapide et important
+Figues sèches
+61
+50,4 g
+252 kcal
+IG modéré, mais riche en glucides → portion à surveiller
+Abricots
+57
+9,1 g
+49 kcal
+IG modéré avec glucides modérés
+Pêches
+42
+11,3 g
+54 kcal
+IG faible → hausse plus progressive
+Fraises
+40
+4,6 g
+28 kcal
+IG faible et peu de glucides/100 g
+Raisins secs
+45
+16,1 g
+70 kcal
+IG modéré; attention aux portions (aliment “concentré”)
+
+Échelle de l'indice glycémique :
+-IG élevé (au-dessus de 70)  : Glucose, sodas, pommes de terre au four, purée, riz brun, corn flakes, baguette française.
+-IG moyen (55 à 70)  : Pizza, riz blanc, barres de céréales, petits beurres, maïs, chips, banane, jus d'orange, chocolat au lait.
+-IG faible (moins de 55)  : Pain aux céréales, spaghetti, pomme, pois chiches, yaourt, lentilles, amandes, soja.
+Comprendre les étiquettes nutritionnelles
+L'étiquette nutritionnelle permet de connaître la composition d'un produit alimentaire. Elle peut vous aider à faire votre choix, car deux produits similaires peuvent contenir des quantités différentes de glucides, lipides ou fibres. Par exemple, le chocolat noir et le chocolat au lait ne possèdent pas la même teneur en glucides.
+Exemple pour 100 g :
+Chocolat noir : IG 44, Glucides 33,3 g, 572 kcal
+Chocolat au lait : IG 41, Glucides 56,9 g, 545 kcal
+
+
+
+Adopter les bons choix au marché
+
+Catégorie
+Objectif au marché
+Choix à privilégier
+À limiter / éviter
+Conseils pratiques
+Viandes
+Réduire l’apport en graisses
+Morceaux maigres (moins de 10 g lipides/100 g) : bœuf (bifteck, faux-filet, rosbif), steak haché maigre, lapin, dinde, poulet/volaille sans peau
+Morceaux gras et préparations riches en matières grasses
+Cuisson vapeur, grillée, ou sans matière grasse ajoutée
+Produits sucrés
+Diminuer les “sucres inutiles”
+Consommation exceptionnelle
+Sodas, pâtisseries, desserts, bonbons, chocolats…
+Garder ces produits pour des occasions, préférer des desserts simples et portionnés
+Matières grasses
+Choisir des lipides de meilleure qualité
+Graisses végétales : huiles d’olive, colza, tournesol
+Graisses animales : beurre, crème, saindoux…
+Utiliser les huiles végétales pour assaisonner et cuire; limiter les ajouts
+Laitages / Fromages
+Maîtriser graisses et calories
+Laitages écrémés ou demi-écrémés; fromages peu gras ou à pâte dure type comté en portion raisonnable
+Excès de fromages gras et grandes portions
+Fixer une portion (ex : 1 part) et ne pas “grignoter” le fromage
+Féculents
+Assurer énergie et satiété avec une meilleure qualité glucidique
+Pain, céréales, pâtes, pommes de terre, légumes secs; versions complètes et à faible IG (ex : légumes secs)
+Riz/pâtes blanches trop souvent (dans ton texte: moins intéressants que les versions complètes/IG bas)
+En proposer à chaque repas en quantité raisonnable (repère : 150 g cuits)
+Plats préparés
+Réduire sel + graisses cachées
+Plats faits maison, simples
+Plats préparés (souvent riches en sel et graisses cachées, pauvres nutritionnellement)
+Cuisiner en avance; choisir des recettes courtes (3–5 ingrédients)
+Le bon pain
+Améliorer la qualité des glucides/fibres
+Pain complet (référence)
+Pain blanc si systématique
+Varier les pains mais garder le complet comme choix principal
+
+
+
+
+
+Répartition des repas
+Trois repas principaux + une ou deux collations si nécessaire.
+Horaires réguliers pour éviter les variations glycémiques.
+Importance du petit-déjeuner riche en glucides complexes et protéines.
+Contrôle des portions et respect des apports énergétiques.
+Pour une assiette équilibrée :
+-Remplissez la moitié de votre assiette de légumes.
+-Un quart de féculents.
+-Un quart de protéines (viande, poisson, œufs).
+-Pensez à boire de l'eau et à consommer des produits laitiers.
+La faim et la satiété
+Adaptez votre façon de manger à vos propres rythmes et à vos ressentis. Soyez attentif aux sensations de faim, de satiété et aux signaux de votre corps. Mangez pour satisfaire vos vrais besoins, pas seulement pour répondre au stress ou aux émotions.
+Points clés :
+-Mangez quand vous avez faim, dès que vous ressentez des signaux physiques (ventre qui gargouille, baisse d'énergie…).
+-Mangez lentement, en prenant le temps de savourer.
+-Divisez votre repas en petites bouchées et mastiquez bien.
+-Évitez de manger devant la télévision ou avec distraction ; concentrez-vous sur ce que vous mangez.
+-Arrêtez-vous de manger dès que vous ressentez la satiété.
+-Buvez de l'eau tout au long du repas.
+ Recommandations diététiques spécifiques
+ Pour le diabète de type 1
+Adapter les apports glucidiques aux doses d’insuline.
+Apprendre à compter les glucides 
+Prévoir des collations lors d’activités physiques prolongées.
+ Pour le diabète de type 2
+Favoriser la perte de poids modérée (5 à 10 % du poids initial).
+Réduire les graisses saturées et les sucres rapides.
+Encourager la consommation de fibres alimentaires.
+ Cas particuliers
+Diabète gestationnel : 6 repas fractionnés, réduction des sucres rapides.
+Personnes âgées : éviter les régimes trop restrictifs, privilégier les apports protéiques suffisants.
+Suivi et évaluation diététiques
+Le suivi nutritionnel doit être assuré par un diététicien ou un professionnel formé à l’ETP.
+Il permet de :
+Évaluer la progression du patient.
+Corriger les erreurs alimentaires persistantes.
+Renforcer la motivation et la compréhension.
+Adapter les recommandations en fonction des résultats métaboliques.
+
+
+
+Activité physique et équilibre glycémique
+L’exercice physique est un traitement non médicamenteux essentiel dans la prise en charge du diabète.
+Il améliore la sensibilité à l’insuline, favorise la perte de poids, diminue la pression artérielle et améliore la santé cardiovasculaire.
+ Bienfaits physiologiques
+Augmentation de la consommation de glucose par les muscles.
+Réduction de la résistance à l’insuline.
+Diminution des besoins en médicaments hypoglycémiants.
+Amélioration de la composition corporelle (réduction de la masse grasse).
+Types d’activité physique recommandés
+Type d’exercice
+Durée / Fréquence
+Objectifs principaux
+Marche rapide
+30 à 45 min, 5x/semaine
+Amélioration de la sensibilité à l’insuline
+Natation / Vélo / Danse
+2 à 3x/semaine
+Effet cardio-protecteur
+Renforcement musculaire
+2x/semaine
+Maintien de la masse musculaire
+Étirements / Yoga
+Quotidien
+Réduction du stress, amélioration de la flexibilité
+
+Les précautions à prendre
+Avant de débuter une activité physique ou sportive, il est essentiel de commencer progressivement. Un démarrage en douceur et régulier est recommandé, et il est préférable de demander conseil à un professionnel de santé pour choisir l'activité qui vous convient.
+Conseils avant et pendant l'activité :
+-Consulter toujours le médecin avant de lancement dans une nouvelle activité physique.
+-Surveiller régulièrement la glycémie, surtout s’il y a un risque de faire des hypoglycémies.
+-Noter les mesures glycémiques, ressentis et éventuels malaises dans un carnet d'auto-surveillance.
+-Privilégier des lieux sécurisés et des créneaux horaires permettant d’éviter l’isolement
+Pendant l'effort :
+-Adapter l'intensité selon la forme et la capacités.
+-Hydrater et mangez avant et après l'effort.
+-Munisser toujours de sucre ou d'une collation pour éviter les risques d'hypoglycémie.
+-Porter des chaussures adaptées (en particulier pour la marche ou la course) et réaliser une inspection régulière des pieds afin de dépister précocement toute lésion (ampoule, rougeur, plaie) et prévenir les complications.​
+-Éviter de faire de l'exercice en période de chaleur ou de froid extrême, pour limiter le risque de complications.
+Activité physique, insuline et hypoglycémie
+En général, l'activité physique abaisse la glycémie, pendant l'effort et parfois plusieurs heures après. L'exercice renforce l'action de l'insuline : il est donc souvent nécessaire d'ajuster les doses pour éviter les hypoglycémies en diminuant l'insuline avant et après une séance d'activité.
+Adapter la dose d'insuline
+-La quantité d'insuline à injecter dépend de l'intensité de l'activité. Voici quelques repères à adapter avec l'aide de votre médecin :
+*Activité modérée  : Si vous ressentez un léger essoufflement et une petite transpiration, réduisez la dose d'insuline d'environ un tiers.
+*Activité intense  : Pour un essoufflement marqué et une transpiration abondante, réduisez la dose de moitié.
+*Activité intense et longue  : En cas d'effort prolongé avec grande transpiration, diminuez la dose de moitié et prévoyez une collation de 30 g de glucides par heure d'activité.
+Pour les repas pris plus de 3 heures avant l'exercice, il n'est généralement pas nécessaire de modifier la dose d'insuline.
+Pompe à insuline : que faire ?
+-Si l'activité est courte ou d'intensité modérée, il n'est souvent pas utile de modifier le débit de la pompe, mais surveiller la glycémie de façon rapprochée.
+-Si l'activité est plus intense ou dure plus d'une heure, il est recommandé de déconnecter la pompe pendant 1 à 2 heures au maximum, juste avant l'exercice.
+Important : Avant tout ajustement ou réduction des doses,on demande toujours l'avis de médecin.
+Sport et insuline : les bons gestes
+Injection d'insuline
+-Si le patient est traité par insuline, il peut être nécessaire de diminuer la dose en fonction de l'intensité de l'activité physique prévue. 
+-Éviter d'injecter l'insuline dans un muscle qui sera sollicité pendant l'exercice 
+- L'insuline agit plus rapidement si elle est injectée dans un muscle actif, ce qui peut augmenter le risque d'hypoglycémie.
+Surveiller l’alimentation
+-Avant une activité physique, l’organisme doit avoir assez de glucose pour répondre à l'effort :
+*Privilégier les sucres prêtés avant l'activité (ex : pâtes, pains, pommes de terre…)
+*Limiter les sucres rapides comme les confitures, barres chocolatées ou sodas.
+*Garder des sucres rapides (soda, jus, morceaux de sucre) et, en cas de traitement par insuline, un kit d'urgence (flacon de glucagon).
+
+L’hygiène de vie au quotidien
+Sommeil et stress
+Le manque de sommeil et le stress augmentent la sécrétion de cortisol et favorisent l’hyperglycémie.
+Dormir 7 à 8 heures par nuit.
+Apprendre des techniques de relaxation (respiration, méditation).
+Tabac 
+Le tabac aggrave les complications cardiovasculaires et la neuropathie.
+ Hydratation
+Boire 1,5 à 2 litres d’eau par jour.
+Éviter les boissons sucrées et les jus industriels.
+                  
+Atelier :Le diabète et le jeûne du Ramadan
+
+Le jeûne du Ramadan représente un défi pour le patient diabétique, car il implique une abstinence prolongée de nourriture et de boisson, entraînant un risque de déséquilibre glycémique.
+ Principes de prise en charge
+L’approche doit être individualisée, tenant compte du type de diabète, du traitement et de l’état clinique.
+Risques potentiels
+Hypoglycémie (liée au jeûne prolongé).
+Hyperglycémie postprandiale (repas copieux à la rupture du jeûne).
+Déshydratation et cétose.
+ Recommandations éducatives
+Réaliser une consultation préparatoire avant le Ramadan.
+Adapter les doses d’insuline ou d’antidiabétiques oraux.
+Fractionner le repas du soir (iftar) et éviter les excès.
+Contrôler la glycémie plusieurs fois par jour.
+Rompre le jeûne immédiatement en cas d’hypoglycémie < 0,7 g/L.
+“Jeûner en sécurité, c’est anticiper, surveiller et adapter son traitement.”
+Avant le mois de Ramadan
+-Prendre rendez-vous avec le médecin 1 à 2 mois avant le Ramadan pour un bilan pré-Ramadan et discuter explicitement de l’intention de jeûner (ou de ne pas jeûner).​
+-Évaluer la stabilité du diabète et réaliser, avec le médecin, une stratification du risque afin de décider en sécurité de l’aptitude au jeûne.​
+-Si le jeûne est jugé possible, proposer/planifier une éducation thérapeutique ciblée “diabète et Ramadan” pour renforcer les compétences (adaptation du traitement, autosurveillance, prévention des hypo/hyperglycémies) et encadrer le jeûne dans de bonnes conditions.​
+-Si le médecin déconseille le jeûne, recommander de ne pas jeûner et de respecter l’avis médical.​
+​Évaluation du niveau de risque individuel
+*Haut risque
+-Les personnes classées dans la catégorie à haut risque ne devraient pas jeûner.
+-Ces personnes présentent un risque élevé de complications liées au jeûne pendant le Ramadan. Il est donc recommandé de ne pas jeûner. Si, malgré tout, elles choisissent de jeûner, cela doit se faire sous surveillance médicale étroite et en suivant les stratégies adaptées.
+-Sur le plan religieux, le jeûne leur est déconseillé.
+*Risque modéré
+-Le jeûne peut être envisagé après avis médical personnalisé.
+-De nombreux patients peuvent souhaiter jeûner malgré les recommandations médicales. Cette décision doit être prise après une évaluation approfondie par un professionnel de santé, qui explique au patient les précautions à suivre et les adaptations nécessaires.
+-Religieusement, le jeûne reste possible, mais doit être décidé après consultation du médecin, en tenant compte des éventuelles inquiétudes du patient et de l'évaluation du risque individuel. Une surveillance médicale rapprochée est indispensable durant cette période.
+*Risque faible
+-Les personnes classées dans la catégorie à risque faible devraient généralement pouvoir jeûner pendant le Ramadan. Toutefois, il est possible que leur situation évolue, modifiant ainsi leur niveau de risque. Il est donc essentiel de réévaluer chaque année la situation de chacun avant le Ramadan pour s'assurer que le jeûne reste adapté et sans danger.
+Déshydratation et risque de thrombose
+La déshydratation peut provoquer la formation de caillots sanguins qui risquent de bloquer un vaisseau, en raison du manque de liquides absorbants pendant le jeûne prolongé ou d'une transpiration excessive. Plus la chaleur est importante, plus le risque de déshydratation augmente.
+Acidocétose diabétique
+Lorsque l'organisme utilise les graisses comme source d'énergie, le produit des corps cétoniques, nocifs pour le corps. Cela survient notamment lorsque la dose d'insuline administrée est insuffisante par rapport aux besoins.
+Co-décision entre le médecin et le patient
+La décision finale, prise en concertation entre le médecin et le patient, à propos d'un accord commun sur la catégorie de risque, ce qui permet de choisir de jeûner ou non de façon éclairée et adaptée.
+Que faire si le médecin n’autorise pas à jeûner ?
+Le Coran prévoit des dérogations pour le jeûne dans certains cas comme la maladie, la grossesse, l'allaitement ou le voyage.
+En cas d'incapacité à jeûner, il est permis de compenser chaque jour non jeûné par le don d'un repas à une personne dans le besoin (fidya),  
+Conseils pratiques à suivre :
+-Poursuivre l’autosurveillance glycémique et maintenir la prise des traitements selon le schéma habituel.​
+-Conserver des horaires de repas réguliers et éviter de sauter des repas.​
+-Maintenir une activité physique adaptée à l’état clinique et au niveau habituel du patient.​
+-Encourager le maintien de la convivialité et du soutien social (temps partagé avec les proches), facteurs favorables à l’adhésion et au bien-être.​
+Que faire si le médecin  autorise le patient à jeûner ?
+-Réaliser plusieurs contrôles glycémiques quotidiens, avec un minimum de 3 mesures capillaires par jour.​
+-Adapter la fréquence de l’autosurveillance à la situation clinique et au niveau de risque, avec une intensification possible jusqu’à 7 contrôles par jour si nécessaire.​
+Points de surveillance possibles :
+*Avant l'aube (Souhour)
+*Matin
+*Midi
+*Après-midi
+*Au moment de la rupture du jeûne (Iftar)
+*Soir
+*Nuit
+Attention !
+Il est impératif de stopper le jeûne si :
+Glycémie ≥ 3 g/L à n’importe quel moment : cela correspond à une hyperglycémie importante pendant le Ramadan et nécessite des mesures de sécurité et un contact médical si cela persiste ou s’accompagne de symptômes.​
+Conduite à tenir :
+-Adapter le traitement : rappeler au patient de prendre ses traitements (oraux et/ou injectables) exactement selon la prescription définie lors de la consultation pré-Ramadan; en cas de déséquilibre glycémique, d’oubli/arrêt du traitement, ou de difficulté d’ajustement, recommander de contacter rapidement le médecin.​
+-Hydratation (hors jeûne) : après la rupture du jeûne et jusqu’à l’aube, encourager une hydratation abondante par l’eau; éviter sodas; favoriser des aliments riches en eau.​
+-Activité physique : privilégier une activité modérée après l’iftar (marche, vélo); mentionner que les prières de Tarawih peuvent représenter une activité physique significative selon la durée et le nombre de rakaat.​
+-Sommeil : encourager un sommeil suffisant et un repos de qualité, car la dette de sommeil peut désorganiser les habitudes alimentaires et la gestion du diabète.​
+-Implication de l’entourage : proposer d’impliquer la famille pour soutenir l’organisation des repas, l’observance et la surveillance.​
+-Organisation alimentaire (entre iftar et suhoor)
+-Structurer 2 à 3 repas équilibrés entre le coucher du soleil et l’aube, et éviter le grignotage continu afin de limiter les pics d’hyperglycémie post-prandiale.​
+-Conseiller un plan alimentaire sain : éviter les excès, manger lentement, et planifier les portions.​
+-Augmenter la part de légumes et de fibres.​
+-Limiter les féculents (quantité et choix) et réduire les apports en graisses ainsi qu’en sucres rapides.​
+-Limitez la consommation excessive de graisses et de sucres rapides.
+-Privilégiez les aliments pauvres en sel.
+-Selon la glycémie avant la rupture du jeûne, il est possible de consommer 1 à 3 dates.
+À retenir :
+-Éviter le grignotage entre les repas ainsi que la consommation de produits sucrés en soirée, afin de limiter les pics d’hyperglycémie.​
+-Ne pas sauter le repas du Souhour et éviter de le prendre trop tôt, car cela peut favoriser une hypoglycémie avant l’Iftar; recommander de le programmer le plus tard possible et de privilégier des glucides complexes (“sucres lents”) pour une meilleure stabilité glycémique.​
+-Surveiller le poids pendant le Ramadan et mettre en place des mesures préventives (portions, choix alimentaires, activité physique adaptée) afin d’éviter une prise de poids.​
+Menue alimentaire proposée:
+Jour
+Moment
+Composition du repas/prise
+J1
+Rupture du jeûne
+1 verre de lait. ​
+J1
+Iftar
+1 grande assiette de salade verte; 1 petit bol de chorba frik; 1/6 de khobz eddar; 1 bourek au four (viande ou poulet); 1 petite assiette de hmiss; 3 pruneaux de tajine lahlou. ​
+J1
+Repas du soir
+1 petit ramequin de mhalbi sans sucre; 1 petite brioche maison; 1 verre de thé; eau à volonté. ​
+J1
+Souhour
+1 grande assiette de salade variée; 1 petite assiette de mesfouf sans sucre; 1 verre de lait fermenté (leben); 1 pomme moyenne. ​
+J2
+Rupture du jeûne
+1 datte; 1 verre de lait. ​
+J2
+Iftar
+1 grande assiette de salade algérienne; 1 petit bol de chorba beida avec vermicelles; 1/6 de matlou; 1 assiette moyenne de légumes farcis; 1 petite part de pizza; 1 orange moyenne. ​
+J2
+Repas du soir
+1 yaourt nature; 1 petite brioche; 1 café sans sucre; eau à volonté. ​
+J2
+Souhour
+1 grande assiette de salade verte; 1 petit bol de mesfouf aux petits pois; 1 verre de lait; 1 petite banane. ​
+J3
+Rupture du jeûne
+1 verre d’eau. ​
+J3
+Iftar
+1 petite assiette de salade de riz; 1 grand bol de soupe de légumes; 1 petit chausson aux légumes; 1 assiette de tajine d’olives au poulet; 1/6 de pain; 1 pomme moyenne. ​
+J3
+Repas du soir
+1 petite brioche maison; 1 petit ramequin de flan léger (occasionnel); 1 thé; 1 poignée de fruits oléagineux. ​
+J3
+Souhour
+1 assiette moyenne de salade de concombre; 1 assiette moyenne de couscous garni; 1 verre de lait fermenté (leben); 1 poignée de fruits secs. ​
+J4
+Rupture du jeûne
+1 verre de lait; 1 datte. ​
+J4
+Iftar
+1 petite assiette de hmiss; 1 grande assiette de salade variée; 1 bol moyen de hrira; 1/6 de kesra; 1 assiette moyenne de gratin de pommes de terre; 1 orange moyenne. ​
+J4
+Repas du soir
+1 petit ramequin de mhalbi sans sucre; 1 brioche maison; 1 thé sans sucre; 1 poignée de fruits oléagineux; eau à volonté. ​
+J4
+Souhour
+1 assiette moyenne de salade variée; 1 assiette moyenne de gratin de pommes de terre au four; 1/6 de pain; 1 pomme moyenne; 1 yaourt nature. ​
+
+
+Atelier: Grossesse et diabète gestationnel
+
+
+Diabète préexistant et projet de grossesse
+Chez une patiente présentant un diabète préexistant (DT1 ou DT2), une grossesse est envisageable, à condition d'être planifiée et suivie de façon pluridisciplinaire afin de réduire les risques maternels et fœtaux.
+Avant la conception, il est indispensable d'optimiser l'équilibre glycémique et d'organiser une surveillance rapprochée, car les glycémies se modifient au fil de la grossesse.
+Avant tout projet de grossesse, un bilan préconceptionnel est nécessaire :
+-Examen ophtalmologique (fond d'œil).
+-Recherche de protéinurie.
+-Bilan sanguin incluant l'hémoglobine glyquée (HbA1c).
+-Électrocardiogramme, selon les recommandations.
+En cas de diabète de type 1, la prise en charge doit débuter avant la grossesse.
+-Une insulinothérapie intensifiée visant des glycémies au plus proche de la normale réduit significativement les complications materno-fœtales.
+-Le schéma d'insulinothérapie est ajusté selon les profils glycémiques et peut inclure le choix d'analogues d'insuline compatibles avec la grossesse.
+-L'insuline ne traverse pas la barrière placentaire : les injections n'exposent pas directement le fœtus, ce qui permet de poursuivre l'insulinothérapie pendant toute la grossesse.
+-Une surveillance des corps cétoniques est recommandée, notamment en cas d'hyperglycémies ou de signes évocateurs de décompensation métabolique.
+-Des consultations spécialisées sont souvent nécessaires toutes les deux semaines jusqu'au 6ᵉ mois, puis selon l'organisation de l'équipe pluridisciplinaire.
+-La surveillance repose sur l'autocontrôle glycémique capillaire (avant/après les repas, parfois la nuit) et l'adaptation progressive des doses.
+-La grossesse sur diabète est considérée à risque : un suivi obstétrical renforcé est requis, surtout à l'approche de l'accouchement, période à risque de déséquilibre glycémique.
+Objectif préconceptionnel : viser une HbA1c < 7%, idéalement proche de 6,5% (si réalisable sans hypoglycémies sévères), pour réduire les risques materno-fœtaux.
+Message éducatif : toute l'équilibre glycémique avant la conception est bénéfique, même si la cible n'est pas immédiatement atteinte.
+Réévaluation thérapeutique avant/début de grossesse : intensifier ou modifier le traitement antidiabétique en fonction du profil de la patiente.
+Si traitement par ADO : discuter d'un relais par insuline avant ou dès le début de la grossesse lorsque cela est nécessaire, en tenant compte des contre-indications/limitations de certaines molécules pendant la gestation.
+Si insulinothérapie : adapter le schéma (basal/bolus, doses, horaires) et sélectionner les insulines/analogues compatibles avec la grossesse selon les recommandations locales.
+*1er trimestre : anticiper un risque accumulé d'hypoglycémies ; renforcer l'éducation sur les signes d'alerte, de prévention et de conduite à tenir.
+*2e–3e trimestres : informer sur l'augmentation progressive des besoins en insuline liée à l'insulinorésistance placentaire ; prévoir des ajustements fréquents.
+Piliers non médicamenteux :
+-Alimentation équilibrée avec répartition/fractionnement des glucides 
+-Suivi du poids gestationnel.
+-Auto-surveillance glycémique (fréquence et horaires adaptés au traitement et aux objectifs).
+-Activité physique régulière et douce, si absence de contre-indication obstétricale.
+Rôle de l'équipe ETP : 
+-co-construire des objectifs réalistes, renforcer l'autonomie (autosurveillance, adaptations), sécuriser le parcours (coordination diabétologie/obstétrique/diététique) et planifier le suivi tout au long de la grossesse.
+-Pendant la grossesse, quel que soit le type de diabète, une surveillance rapprochée de la glycémie est indispensable afin de limiter les complications maternelles et fœtales. 
+Cette surveillance doit idéalement être coordonnée entre le médecin traitant, le diabétologue et le gynécologue-obstétricien.
+La grossesse sur diabète augmente le risque de complications (HTA, pré-éclampsie, macrosomie), ce qui justifie un objectif d'équilibre glycémique strict. 
+Pour favoriser le bon déroulement de la grossesse, il est nécessaire d'adopter une alimentation équilibrée et de maîtriser les apports en glucides.
+Le carnet d'autosurveillance est un outil central :
+- il permet de consigner les glycémies capillaires, l'alimentation, l'activité physique et les adaptations thérapeutiques.
+-Il sert de support d'échange avec les professionnels pour analyser l'évolution du diabète et ajuster le traitement.
+Plan alimentaire en grossesse diabétique
+-L'adaptation de l'alimentation contribue à limiter la prise de poids, facteur de déséquilibre glycémique.
+-Il est recommandé de privilégier les aliments à faible indice glycémique (légumes, légumineuses, céréales complètes, viandes maigres, poisson, produits laitiers adaptés) et de limiter les sucres rapides.
+Le médecin et/ou le diététicien peut proposer de fractionner l'alimentation (3 repas et 1 à 2 collations) afin de répartir les glucides sur la journée.
+Ce fractionnement aide à stabiliser les glycémies et à améliorer le confort de la femme enceinte.
+Diabète gestationnel : 
+Le diabète gestationnel (DG) est une intolérance au glucose apparue ou diagnostiquée pour la première fois pendant la grossesse.Il résulte d’une résistance accrue à l’insuline induite par les hormones placentaires et se manifeste généralement au 2ᵉ ou 3ᵉ trimestre.
+Dans la majorité des cas, le diabète gestationnel disparaît après l'accouchement, mais il confère un risque d'accumulation ultérieure de diabète de type 2 chez la mère.
+Diagnostic
+Le dépistage est réalisé entre la 24ᵉ et la 28ᵉ semaine d’aménorrhée par une épreuve d’hyperglycémie provoquée (HGPO) de 75 g de glucose.
+Le diagnostic est retenu si l’un des seuils suivants est atteint :
+À jeun ≥ 0,92 g/L ;
+1h ≥ 1,80 g/L ;
+2h ≥ 1,53 g/L.
+ Prise en charge
+Mesures hygiéno-diététiques adaptées : 6 petits repas fractionnés, limitation des sucres simples.
+Autosurveillance glycémique 4 fois/jour.
+Si échec : insulinothérapie transitoire (jamais d’antidiabétiques oraux).
+Suivi post-partum
+Test de dépistage 6 à 12 semaines après l’accouchement.
+Surveillance annuelle, car risque de diabète de type 2 ultérieur.
+Symptômes possibles
+-Soif intense et persistant.
+-Polyurie avec urines abondantes, parfois nycturie.
+-Fatigue importante, disproportionnée par rapport au déroulement habituel de la grossesse.
+Principaux facteurs de risque
+-Surpoids ou obésité maternelle avant la grossesse (IMC ≥ 25 kg/m²).
+-Antécédent de diabète gestationnel lors d'une précédente grossesse.
+-Antécédent de macrosome nouveau-né (poids de naissance > 4 kg).
+-Antécédents familiaux de diabète au premier degré (parents, frères, sœurs).
+Surveillance et prise en charge
+-Mise en route d'un traitement par insuline si les mesures hygiéno-diététiques ne permettent pas d'atteindre les objectifs glycémiques.
+-Prise en charge diététique individualisée, avec répartition des glucides sur la journée.
+-Recommandation d'une activité physique régulière adaptée à la grossesse (marche, natation, vélo d'appartement, etc.), en l'absence de contre-indication obstétricale.
+-Auto-surveillance glycémique pluriquotidienne (jusqu'à 4 à 6 contrôles/jour) à l'aide d'un lecteur, avec ajustement du traitement en fonction des résultats.
+Changements métaboliques pendant la grossesse
+La grossesse augmente les besoins en insuline d'un facteur d'environnement 2 à 3, en raison de l'élévation des hormones placentaires qui induisent une insulinorésistance.
+Le plus souvent, le diabète gestationnel est asymptomatique, d'où l'importance du dépistage systématique au 2ᵉ trimestre.
+Plus rarement, la femme enceinte peut présenter une polyurie et une fatigue intenses en cas d'hyperglycémie marquée.
+Risques materno-fœtaux
+-Le risque le plus fréquent est la macrosomie fœtale (poids de naissance > 4 kg), pouvant compliquer l'accouchement et augmenter le recours à la césarienne.
+-L'enfant expose au diabète gestationnel un risque plus élevé de développement ultérieur d'un surpoids, d'un syndrome métabolique ou d'un diabète de type 2.
+-Le nouveau-né peut, plus rarement, présenter des hypoglycémies dans les heures qui suivent la naissance, surtout en cas de déséquilibre glycémique maternel en fin de grossesse.
+-Ces hypoglycémies sont dépistées en maternité et traitées par sérum glucosé ou alimentation précoce (biberon ou mise au sein).
+Comment mieux vivre avec un diabète gestationnel
+-Le médecin insiste sur l'importance d'une alimentation adaptée (limitation des sucres rapides et graisses, répartition des glucides) et de la surveillance des glycémies capillaires.
+-Le fractionnement des repas aide à obtenir de meilleurs profils glycémiques.
+-Une activité physique régulière est recommandée si le gynécologue l'autorise ; en cas d'échec des seules mesures hygiéno-diététiques, un traitement par insuline est introduit.
+-Le schéma d'insulinothérapie est ajusté aux glycémies, avec des objectifs souvent autour de 0,95 g/L à jeun et < 1,20 g/L deux heures après les repas (à adapter aux protocoles locaux).
+-L'insuline s'administre par injections sous-cutanées, avec du matériel à aiguilles fines, ce qui limite la douleur.
+-Elle n'est pas dangereuse pour le fœtus, car elle ne traverse pas le placenta, et les injections dans l'abdomen ne présentent pas de risque particulier.
+À retenir l'accouchement
+-Dans la très grande majorité des cas, le diabète gestationnel régresse après la naissance, sauf si un diabète préexistant était méconnu.
+-Un contrôle glycémique (ou une HGPO selon le protocole) est recommandé environ 3 mois après l'accouchement pour vérifier la normalisation.
+-Il est essentiel de maintenir sur le long terme une hygiène de vie favorable (alimentation équilibrée, contrôle du poids, activité physique régulière) afin de réduire le risque de diabète de type 2 ultérieurement. 
+
+Atelier: Pied Diabetique
+
+Le pied diabétique correspond à un ensemble de manifestations observées chez un diabétique, le plus souvent sévère, associé des lésions cutanées et des troubles circulatoires périphériques, avec une neuropathie périphérique responsable notamment d'une diminution ou d'une perte de la sensibilité, ainsi que d'une atteinte du système nerveux autonome.
+Épidémiologie du pied diabétique
+Les données épidémiologiques sur le pied diabétique sont nombreuses, mais parfois difficiles à interpréter en raison des différences de méthodologie d'une étude à l'autre, des définitions utilisées, du niveau de prise en charge des patients, des caractéristiques des populations (type de diabète, âge, niveau socio-économique, etc.) et de l'accessibilité aux soins.
+Quelques repères chiffrés :
+-Environ 15% des diabétiques présenteront une ulcération du pied au cours de leur vie.
+-Le diabète est impliqué dans 50 à 70% des amputations des membres inférieurs.
+-Un diabétique est amputé d'un membre inférieur toutes les 30 secondes dans le monde.
+-Plus de 50 % des amputations pourraient être évitées par une prise en charge adaptée.
+-Les ulcères du pied représentent 20 à 25% des causes d'hospitalisation chez les diabétiques.
+Ces chiffres illustrent la fréquence et la gravité des complications du pied diabétique, qui constituent un problème majeur de santé publique.
+
+​
+Examen du pied 
+-Sensibilité : monofilament/diapason, toucher, vibration, température.
+-Vascularisation : pouls, auscultation/souffle température, cutanée.--Motricité : amyotrophie, réflexes (rotulien/achilléen), démarche.-Autonome : qualité/trophicité de la peau, température​
+-Squelette/déformations : inspection en charge/décharge, œdème, orteils en marteau, métatarsiens proéminents, déformation de Charcot.
+ Examens complémentaires 
+Paraclinique : oxymétrie transcutanée, imagerie/radiologie du pied; artériographie/CT/IRM selon indication.​
+Classification 
+Stade 0 : pas d'ulcère.
+Stade 1 : ulcère superficiel localisé.
+Stade 2 : ulcère profond (tendons/os/ligaments).
+Stade 3 : ostéomyélite/abcès profond.
+Stade 4 : gangrène orteils/avant-pied.
+Stade 5 : gangrène de tout le pied.
+ Facteurs favorisants 
+Traumatismes : brûlures (eau chaude/bouillotte/objet chaud), petits chocs, faux mouvements, auto-soins dangereux (ciseaux/coupe-ongles).
+
+Chaussures : trop étroites, dures, coutures/aspérités internes → frottements et plaies.​
+Facteurs « psycho-sociaux » : négligence (surtout si atteinte sensible), isolement/âge, difficultés visuelles/auditives.
+Dépistage des patients à risque
+Patients à risque : antécédent d'ulcère, neuropathie, artériopathie, déformations.
+-Pied neuropathique (repères) : pieds chauds, insensibilité, aréflexie, hyperkératose, pouls perçus/parfois amples
+-Pied artériopathique (repères) : claudication, pied froid/pâle (élévation) et cyanosé (déclive), atrophie, pouls absents ou mal perçus, souffle vasculaire, remplissage veineux lent​
+Déformations : recherche systématique des appuis anormaux/hyperpressions, empreinte/podobarographie si disponible, suivi régulier et orientation spécialiste si besoin.
+ Prévention 
+-Hygiène et soins
+-Lavage régulier, contrôler la température de l'eau (éviter trop chaud), sécher soigneusement surtout entre les orteils.
+-Changer de chaussettes, préférer le coton et sans couture irritante, aérer les chaussures.
+-Inspection tous les jours, complète (plante, dos, espaces interdigitaux, ongles) avec miroir/aide si nécessaire​
+Rechercher : lésions, callosités, fissures, mycoses, changement de couleur.
+Soins préventifs
+*Callosités/durillons : pierre ponce, jamais lame/ciseaux; crème grasse quotidienne (sauf entre les orteils).ppl-ai-file-upload.s3.amazonaws​
+*Ongles : couper droit, ciseaux à bout rond, limer; consulter pour cors/durillons/plaie même minime.ppl-ai-file-upload.s3.amazonaws​
+*Éviter les traumatismes + chaussage
+*Ne pas marcher pieds nus; éviter la chaleur directe (bouillotte, couverture électrique, radiateur); vérifiez l'intérieur de la chaussure avant de l'enfiler.
+*Chaussures : adaptées, souples, sans aspérité interne, assez larges/longues, compatibles avec l'activité quotidienne.
+
+ÉVALUATION, SUIVI ÉDUCATIF
+L’évaluation et le suivi constituent les phases finales et essentielles du processus d’éducation thérapeutique.
+Elles permettent de mesurer l’efficacité des actions éducatives, d’ajuster la stratégie de prise en charge et d’assurer la continuité du soutien au patient diabétique.
+Dans une approche centrée sur le patient, l’évaluation n’est pas un jugement mais un outil d’amélioration continue des compétences et de la qualité des soins.
+ Objectifs de l’évaluation éducative
+Apprécier les acquis de connaissances et de compétences du patient.
+Évaluer la modification durable des comportements.
+Identifier les obstacles rencontrés dans la gestion quotidienne du diabète.
+Mesurer l’impact de l’éducation thérapeutique sur l’équilibre glycémique.
+Ajuster les objectifs du programme éducatif en fonction de l’évolution du patient.
+“Évaluer, c’est reconnaître le progrès, pas sanctionner les erreurs.”
+
+ Les types d’évaluation
+* Évaluation formative
+Elle se déroule pendant le programme éducatif.
+Elle permet d’identifier les difficultés du patient et d’ajuster les méthodes pédagogiques.
+*Évaluation sommative
+Elle est réalisée à la fin du cycle éducatif.
+Elle mesure les résultats obtenus par rapport aux objectifs fixés.
+* Auto-évaluation
+Elle incite le patient à devenir acteur de son apprentissage.
+Le patient évalue lui-même ses progrès à l’aide d’outils simples (questionnaires, carnets de bord, fiches de suivi).
+ Les outils d’évaluation
+Les outils utilisés doivent être validés, adaptés et compréhensibles pour le patient :
+Outil
+Objectif
+Responsable
+Questionnaire de connaissances
+Vérifier l’acquisition théorique
+Infirmier, éducateur en santé
+Grille d’observation des gestes techniques
+Évaluer la pratique des injections, de la glycémie
+Infirmier
+Carnet d’autosurveillance
+Suivre la régularité et la compréhension des résultats
+Patient + médecin
+Entretien de réévaluation
+Identifier les freins et motivations
+Équipe pluridisciplinaire
+
+
+Le suivi éducatif
+L’éducation thérapeutique ne s’arrête pas à la fin des séances.
+Le suivi post-éducatif est indispensable pour consolider les acquis, renforcer la motivation et ajuster les objectifs.
+Modalités de suivi
+Consultations programmées : tous les 3 à 6 mois.
+Suivi téléphonique ou numérique : pour maintenir le lien et encourager la persévérance.
+Groupes de parole ou ateliers de rappel : partages d’expériences et renforcement de la motivation.
+ Indicateurs de performance du programme éducatif
+L’évaluation d’un programme d’éducation thérapeutique repose aussi sur des indicateurs globaux de qualité :
+Indicateur
+Méthode d’évaluation
+Résultat attendu
+Taux d’HbA1c moyen
+Dosage biologique
+Diminution progressive (<7 %)
+Taux de satisfaction patient
+Questionnaire anonyme
+≥ 80 % de satisfaction
+Réduction des hospitalisations
+Analyse du dossier médical
+Baisse significative
+Taux d’autonomie
+Grille d’évaluation éducative
+Augmentation du niveau d’indépendance
+
+
+Difficultés rencontrées dans la mise en œuvre
+Les obstacles les plus fréquents à la réussite des programmes d’ETP sont :
+Manque de temps du personnel soignant.
+Motivation variable des patients.
+Ressources matérielles limitées.
+Difficultés de coordination entre les intervenants.
+Solutions possibles :
+Intégrer l’ETP dans la routine de soins.
+Développer des outils numériques interactifs.
+Renforcer la formation du personnel.
+Impliquer davantage les familles et les associations de patients.
+“Un programme d’ETP réussi repose sur l’engagement collectif, la rigueur scientifique et l’humanité.”
+
+Les indicateurs d’évaluation.
+ Exemple d’objectifs individuels :
+Objectif
+Activité éducative
+Évaluation
+Apprendre à utiliser un lecteur glycémique
+Démonstration + pratique guidée
+Mesure correcte réalisée seul
+Adapter les doses d’insuline selon la glycémie
+Atelier collectif avec cas pratiques
+Réponse correcte à un scénario clinique
+Connaître les signes d’hypoglycémie
+Jeu de cartes “symptômes et réactions”
+Réponse adaptée à la situation
+
+
+ Évaluation des compétences acquises
+L’évaluation des acquis est une étape essentielle pour mesurer l’efficacité du programme et ajuster la démarche éducative.
+ Types d’évaluation
+Formative : en cours de programme (permet de corriger et d’ajuster).
+Somative : à la fin du cycle éducatif (évalue les résultats finaux).
+Auto-évaluation : par le patient lui-même.
+5.2. Compétences évaluées
+Compétences cognitives : connaissances sur la maladie.
+Compétences pratiques : gestes techniques maîtrisés.
+Compétences comportementales : adoption de nouvelles habitudes.
+“Évaluer, ce n’est pas juger : c’est aider le patient à mesurer son propre progrès.”
+
+ Suivi éducatif et réévaluation
+L’éducation thérapeutique est un processus continu.
+Le suivi régulier du patient est essentiel pour :
+Maintenir la motivation et la confiance.
+Identifier les difficultés rencontrées.
+Renforcer les acquis par des rappels périodiques.
+Réajuster les objectifs si nécessaire.
+Le suivi peut être réalisé :
+En consultation présentielle,
+Par téléphone,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusion 
+Ce guide met en évidence que l'éducation thérapeutique n'est pas une simple transmission d'informations, mais une démarche structurée et progressive qui aide le patient à développer des compétences d'autosoins, d'adaptation et de prise de décision, en tenant compte de son contexte de vie, de ses ressources et de ses difficultés.​
+En renforçant la collaboration entre le patient, ses proches et l'équipe pluridisciplinaire, l'ETP permet d'améliorer l'équilibre métabolique, d'augmenter l'adhésion aux traitements et d'agir efficacement sur les facteurs de risque, notamment par le dépistage régulier et la prévention ciblée des complications .​
+Ainsi, l'utilisation de ce guide dans les structures de soins vise à harmoniser les pratiques éducatives, à faciliter l'animation d'ateliers et à promouvoir une prise en charge durable, afin de réduire la morbidité, d'améliorer la qualité de vie et de limiter le coût humain et sanitaire des complications du diabète.
+« Mieux comprendre pour mieux vivre son diabète, tel est le cœur de l’éducation thérapeutique. »
+  
+Bibliographie indicative
+Organisation mondiale de la Santé (OMS). Éducation thérapeutique du patient – Programme de formation continue pour les professionnels de santé. Genève, 2018.
+American Diabetes Association (ADA). Standards of Medical Care in Diabetes 2024. Diabetes Care, 2024.
+Haute Autorité de Santé (HAS). Recommandations de bonnes pratiques : ETP dans les maladies chroniques. Paris, 2023.
+International Diabetes Federation (IDF). Global Diabetes Atlas – 10th Edition. Bruxelles, 2024.
+Société Francophone du Diabète (SFD). Guide pratique du diabète de type 2. Paris, 2022.
+INSP Algérie. Guide national de l’éducation thérapeutique du patient diabétique. Alger, 2021.
+
+10. Annexes (suggestions)
+🔹 Annexe 1 : Exemple de plan de séance d’ETP (injection d’insuline)
+🔹 Annexe 2 : Grille d’évaluation éducative du patient
+🔹 Annexe 3 : Modèle de carnet glycémique
+🔹 Annexe 4 : Schémas des sites d’injection et tableaux alimentaires
+🔹 Annexe 5 : Fiches pratiques pour patients (prévention du pied diabétique, hypoglycémie, etc.)
+
+ANNEXE 1
+Questionnaire d’évaluation pour patients diabétiques
+1. Informations générales
+Âge : _____
+Sexe : ☐ Homme ☐ Femme
+Durée du diabète (en années) : _____
+Type de diabète : ☐ Type 1 ☐ Type 2 ☐ Je ne sais pas
+Suivez-vous un traitement ? ☐ Oui ☐ Non
+Si oui, lequel ? ☐ Insuline ☐ Antidiabétiques oraux ☐ Autres : ________
+2. Connaissances sur le diabète
+Savez-vous ce qu’est le diabète ? ☐ Oui ☐ Non ☐ Un peu
+Le diabète est une maladie :
+☐ Aiguë ☐ Chronique ☐ Je ne sais pas
+Quels sont les signes d’un excès de sucre dans le sang ? (Plusieurs réponses possibles)
+☐ Soif excessive ☐ Fatigue ☐ Faim intense ☐ Vision floue ☐ Je ne sais pas
+Quels sont les risques à long terme du diabète mal contrôlé ?
+☐ Problèmes cardiaques ☐ Cécité ☐ Amputations ☐ Aucun ☐ Je ne sais pas
+5. D’où avez-vous obtenu vos informations sur le diabète ? (plusieurs réponses possibles)
+☐ Du médecin traitant
+☐ De l’infirmier / de l’équipe soignante
+☐ Du pharmacien
+☐ De la famille ou des amis
+☐ De la télévision   ☐ D’Internet ou des réseaux sociaux
+☐ Des livres ou brochures éducatives
+☐ Des cours ou ateliers d’éducation thérapeutique
+☐ Autre : ___________________________
+3. Auto-gestion de la maladie
+Faites-vous une auto-surveillance de la glycémie ? ☐ Oui ☐ Non
+Si oui, à quelle fréquence ? ☐ 1x/jour ☐ 2x/jour ☐ Plus
+Savez-vous comment interpréter vos résultats de glycémie ? ☐ Oui ☐ Non
+Avez-vous déjà adapté vous-même une dose d’insuline ou de médicament ? ☐ Oui ☐ Non
+Savez-vous quoi faire en cas d’hypoglycémie ? ☐ Oui ☐ Non
+
+4. Alimentation et hygiène de vie
+Suivez-vous un régime alimentaire particulier pour votre diabète ? ☐ Oui ☐ Non
+Connaissez-vous la notion d’index glycémique ? ☐ Oui ☐ Non
+Faites-vous de l’activité physique ? ☐ Oui ☐ Non
+Si oui, combien de fois par semaine ? _____
+Fumez-vous ? ☐ Oui ☐ Non
+Avez-vous des difficultés à changer vos habitudes de vie ? ☐ Oui ☐ Non
+Si oui, lesquelles ? ________________________________________________
+
+5. Ressenti / Qualité de vie
+Le diabète impacte-t-il votre quotidien ? ☐ Pas du tout ☐ Un peu ☐ Beaucoup
+Êtes-vous anxieux(se) à propos de votre maladie ? ☐ Oui ☐ Non
+Pensez-vous avoir suffisamment de soutien de la part :
+De votre famille ? ☐ Oui ☐ Non
+De votre médecin ? ☐ Oui ☐ Non
+D'autres soignants ? ☐ Oui ☐ Non
+
+6. Besoins éducatifs perçus
+Aimeriez-vous en savoir plus sur :
+☐ L’alimentation
+☐ Les traitements
+☐ L’auto-surveillance
+☐ La gestion des situations d’urgence
+☐ La sexualité et le diabète
+☐ Le diabète et le travail
+☐ Autre : ___________________________________________
+Préférez-vous un accompagnement :
+☐ Individuel ☐ En groupe ☐ Les deux
+Avez-vous des attentes ou questions particulières ?
+
+✅ Merci pour vos réponses !           
+
